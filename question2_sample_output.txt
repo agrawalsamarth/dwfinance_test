@@ -1,0 +1,5503 @@
+[
+ {
+  "a":2324993405,	// Aggregate tradeId
+  "p":"56390.00",	// Price
+  "q":"0.056",	// Quantity
+  "f":5373067027,	// First tradeId
+  "l":5373067029,	// Last tradeId
+  "T":1726044471770,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993406,	// Aggregate tradeId
+  "p":"56389.90",	// Price
+  "q":"0.004",	// Quantity
+  "f":5373067030,	// First tradeId
+  "l":5373067030,	// Last tradeId
+  "T":1726044471770,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993407,	// Aggregate tradeId
+  "p":"56389.70",	// Price
+  "q":"0.006",	// Quantity
+  "f":5373067031,	// First tradeId
+  "l":5373067032,	// Last tradeId
+  "T":1726044471770,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993408,	// Aggregate tradeId
+  "p":"56389.60",	// Price
+  "q":"0.004",	// Quantity
+  "f":5373067033,	// First tradeId
+  "l":5373067033,	// Last tradeId
+  "T":1726044471770,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993409,	// Aggregate tradeId
+  "p":"56389.50",	// Price
+  "q":"0.010",	// Quantity
+  "f":5373067034,	// First tradeId
+  "l":5373067036,	// Last tradeId
+  "T":1726044471770,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993410,	// Aggregate tradeId
+  "p":"56389.00",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067037,	// First tradeId
+  "l":5373067037,	// Last tradeId
+  "T":1726044471770,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993411,	// Aggregate tradeId
+  "p":"56388.90",	// Price
+  "q":"0.054",	// Quantity
+  "f":5373067038,	// First tradeId
+  "l":5373067042,	// Last tradeId
+  "T":1726044471770,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993412,	// Aggregate tradeId
+  "p":"56388.70",	// Price
+  "q":"0.008",	// Quantity
+  "f":5373067043,	// First tradeId
+  "l":5373067045,	// Last tradeId
+  "T":1726044471770,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993413,	// Aggregate tradeId
+  "p":"56388.50",	// Price
+  "q":"0.526",	// Quantity
+  "f":5373067046,	// First tradeId
+  "l":5373067048,	// Last tradeId
+  "T":1726044471770,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993414,	// Aggregate tradeId
+  "p":"56388.40",	// Price
+  "q":"1.722",	// Quantity
+  "f":5373067049,	// First tradeId
+  "l":5373067053,	// Last tradeId
+  "T":1726044471770,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993415,	// Aggregate tradeId
+  "p":"56388.30",	// Price
+  "q":"0.004",	// Quantity
+  "f":5373067054,	// First tradeId
+  "l":5373067055,	// Last tradeId
+  "T":1726044471855,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993416,	// Aggregate tradeId
+  "p":"56388.00",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067056,	// First tradeId
+  "l":5373067056,	// Last tradeId
+  "T":1726044471856,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993417,	// Aggregate tradeId
+  "p":"56387.70",	// Price
+  "q":"0.162",	// Quantity
+  "f":5373067057,	// First tradeId
+  "l":5373067063,	// Last tradeId
+  "T":1726044471878,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993418,	// Aggregate tradeId
+  "p":"56387.60",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067064,	// First tradeId
+  "l":5373067064,	// Last tradeId
+  "T":1726044471978,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993419,	// Aggregate tradeId
+  "p":"56387.50",	// Price
+  "q":"0.133",	// Quantity
+  "f":5373067065,	// First tradeId
+  "l":5373067065,	// Last tradeId
+  "T":1726044471978,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993420,	// Aggregate tradeId
+  "p":"56387.00",	// Price
+  "q":"0.004",	// Quantity
+  "f":5373067066,	// First tradeId
+  "l":5373067067,	// Last tradeId
+  "T":1726044471978,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993421,	// Aggregate tradeId
+  "p":"56386.90",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067068,	// First tradeId
+  "l":5373067068,	// Last tradeId
+  "T":1726044471978,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993422,	// Aggregate tradeId
+  "p":"56386.60",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067069,	// First tradeId
+  "l":5373067069,	// Last tradeId
+  "T":1726044471980,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993423,	// Aggregate tradeId
+  "p":"56386.00",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067070,	// First tradeId
+  "l":5373067070,	// Last tradeId
+  "T":1726044471980,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993424,	// Aggregate tradeId
+  "p":"56385.80",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067071,	// First tradeId
+  "l":5373067071,	// Last tradeId
+  "T":1726044471982,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993425,	// Aggregate tradeId
+  "p":"56385.40",	// Price
+  "q":"0.033",	// Quantity
+  "f":5373067072,	// First tradeId
+  "l":5373067072,	// Last tradeId
+  "T":1726044471982,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993426,	// Aggregate tradeId
+  "p":"56385.30",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067073,	// First tradeId
+  "l":5373067073,	// Last tradeId
+  "T":1726044471982,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993427,	// Aggregate tradeId
+  "p":"56385.20",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067074,	// First tradeId
+  "l":5373067074,	// Last tradeId
+  "T":1726044471985,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993428,	// Aggregate tradeId
+  "p":"56385.00",	// Price
+  "q":"0.029",	// Quantity
+  "f":5373067075,	// First tradeId
+  "l":5373067076,	// Last tradeId
+  "T":1726044471985,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993429,	// Aggregate tradeId
+  "p":"56384.90",	// Price
+  "q":"0.004",	// Quantity
+  "f":5373067077,	// First tradeId
+  "l":5373067077,	// Last tradeId
+  "T":1726044471985,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993430,	// Aggregate tradeId
+  "p":"56384.80",	// Price
+  "q":"0.003",	// Quantity
+  "f":5373067078,	// First tradeId
+  "l":5373067078,	// Last tradeId
+  "T":1726044471989,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993431,	// Aggregate tradeId
+  "p":"56384.40",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067079,	// First tradeId
+  "l":5373067079,	// Last tradeId
+  "T":1726044471989,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993432,	// Aggregate tradeId
+  "p":"56384.30",	// Price
+  "q":"0.003",	// Quantity
+  "f":5373067080,	// First tradeId
+  "l":5373067080,	// Last tradeId
+  "T":1726044471989,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993433,	// Aggregate tradeId
+  "p":"56384.00",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067081,	// First tradeId
+  "l":5373067081,	// Last tradeId
+  "T":1726044471989,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993434,	// Aggregate tradeId
+  "p":"56383.80",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067082,	// First tradeId
+  "l":5373067082,	// Last tradeId
+  "T":1726044471989,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993435,	// Aggregate tradeId
+  "p":"56383.40",	// Price
+  "q":"0.006",	// Quantity
+  "f":5373067083,	// First tradeId
+  "l":5373067083,	// Last tradeId
+  "T":1726044471995,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993436,	// Aggregate tradeId
+  "p":"56383.30",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067084,	// First tradeId
+  "l":5373067084,	// Last tradeId
+  "T":1726044471995,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993437,	// Aggregate tradeId
+  "p":"56383.00",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067085,	// First tradeId
+  "l":5373067085,	// Last tradeId
+  "T":1726044471995,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993438,	// Aggregate tradeId
+  "p":"56382.80",	// Price
+  "q":"0.014",	// Quantity
+  "f":5373067086,	// First tradeId
+  "l":5373067088,	// Last tradeId
+  "T":1726044471995,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993439,	// Aggregate tradeId
+  "p":"56382.70",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067089,	// First tradeId
+  "l":5373067089,	// Last tradeId
+  "T":1726044471995,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993440,	// Aggregate tradeId
+  "p":"56382.50",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067090,	// First tradeId
+  "l":5373067090,	// Last tradeId
+  "T":1726044472003,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993441,	// Aggregate tradeId
+  "p":"56382.30",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067091,	// First tradeId
+  "l":5373067091,	// Last tradeId
+  "T":1726044472003,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993442,	// Aggregate tradeId
+  "p":"56382.00",	// Price
+  "q":"0.004",	// Quantity
+  "f":5373067092,	// First tradeId
+  "l":5373067093,	// Last tradeId
+  "T":1726044472003,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993443,	// Aggregate tradeId
+  "p":"56382.10",	// Price
+  "q":"0.354",	// Quantity
+  "f":5373067094,	// First tradeId
+  "l":5373067094,	// Last tradeId
+  "T":1726044472015,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993444,	// Aggregate tradeId
+  "p":"56382.20",	// Price
+  "q":"0.820",	// Quantity
+  "f":5373067095,	// First tradeId
+  "l":5373067095,	// Last tradeId
+  "T":1726044472015,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993445,	// Aggregate tradeId
+  "p":"56381.60",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067096,	// First tradeId
+  "l":5373067096,	// Last tradeId
+  "T":1726044472026,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993446,	// Aggregate tradeId
+  "p":"56381.50",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067097,	// First tradeId
+  "l":5373067097,	// Last tradeId
+  "T":1726044472026,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993447,	// Aggregate tradeId
+  "p":"56381.40",	// Price
+  "q":"0.010",	// Quantity
+  "f":5373067098,	// First tradeId
+  "l":5373067099,	// Last tradeId
+  "T":1726044472026,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993448,	// Aggregate tradeId
+  "p":"56381.30",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067100,	// First tradeId
+  "l":5373067100,	// Last tradeId
+  "T":1726044472039,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993449,	// Aggregate tradeId
+  "p":"56381.10",	// Price
+  "q":"0.016",	// Quantity
+  "f":5373067101,	// First tradeId
+  "l":5373067101,	// Last tradeId
+  "T":1726044472039,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993450,	// Aggregate tradeId
+  "p":"56381.20",	// Price
+  "q":"0.003",	// Quantity
+  "f":5373067102,	// First tradeId
+  "l":5373067102,	// Last tradeId
+  "T":1726044472130,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993451,	// Aggregate tradeId
+  "p":"56381.10",	// Price
+  "q":"0.150",	// Quantity
+  "f":5373067103,	// First tradeId
+  "l":5373067105,	// Last tradeId
+  "T":1726044472134,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993452,	// Aggregate tradeId
+  "p":"56381.20",	// Price
+  "q":"0.008",	// Quantity
+  "f":5373067106,	// First tradeId
+  "l":5373067106,	// Last tradeId
+  "T":1726044472190,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993453,	// Aggregate tradeId
+  "p":"56381.20",	// Price
+  "q":"0.007",	// Quantity
+  "f":5373067107,	// First tradeId
+  "l":5373067107,	// Last tradeId
+  "T":1726044472331,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993454,	// Aggregate tradeId
+  "p":"56381.10",	// Price
+  "q":"0.021",	// Quantity
+  "f":5373067108,	// First tradeId
+  "l":5373067109,	// Last tradeId
+  "T":1726044472335,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993455,	// Aggregate tradeId
+  "p":"56381.20",	// Price
+  "q":"0.035",	// Quantity
+  "f":5373067110,	// First tradeId
+  "l":5373067110,	// Last tradeId
+  "T":1726044472346,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993456,	// Aggregate tradeId
+  "p":"56381.20",	// Price
+  "q":"1.934",	// Quantity
+  "f":5373067111,	// First tradeId
+  "l":5373067117,	// Last tradeId
+  "T":1726044472447,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993457,	// Aggregate tradeId
+  "p":"56381.10",	// Price
+  "q":"0.036",	// Quantity
+  "f":5373067118,	// First tradeId
+  "l":5373067118,	// Last tradeId
+  "T":1726044472631,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993458,	// Aggregate tradeId
+  "p":"56381.20",	// Price
+  "q":"0.070",	// Quantity
+  "f":5373067119,	// First tradeId
+  "l":5373067119,	// Last tradeId
+  "T":1726044472672,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993459,	// Aggregate tradeId
+  "p":"56381.20",	// Price
+  "q":"0.003",	// Quantity
+  "f":5373067120,	// First tradeId
+  "l":5373067120,	// Last tradeId
+  "T":1726044472911,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993460,	// Aggregate tradeId
+  "p":"56381.10",	// Price
+  "q":"0.008",	// Quantity
+  "f":5373067121,	// First tradeId
+  "l":5373067121,	// Last tradeId
+  "T":1726044472936,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993461,	// Aggregate tradeId
+  "p":"56381.20",	// Price
+  "q":"0.033",	// Quantity
+  "f":5373067122,	// First tradeId
+  "l":5373067126,	// Last tradeId
+  "T":1726044472978,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993462,	// Aggregate tradeId
+  "p":"56381.10",	// Price
+  "q":"0.041",	// Quantity
+  "f":5373067127,	// First tradeId
+  "l":5373067127,	// Last tradeId
+  "T":1726044473143,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993463,	// Aggregate tradeId
+  "p":"56381.20",	// Price
+  "q":"0.046",	// Quantity
+  "f":5373067128,	// First tradeId
+  "l":5373067132,	// Last tradeId
+  "T":1726044473641,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993464,	// Aggregate tradeId
+  "p":"56381.10",	// Price
+  "q":"0.009",	// Quantity
+  "f":5373067133,	// First tradeId
+  "l":5373067133,	// Last tradeId
+  "T":1726044473780,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993465,	// Aggregate tradeId
+  "p":"56381.20",	// Price
+  "q":"1.184",	// Quantity
+  "f":5373067134,	// First tradeId
+  "l":5373067153,	// Last tradeId
+  "T":1726044473943,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993466,	// Aggregate tradeId
+  "p":"56381.30",	// Price
+  "q":"0.008",	// Quantity
+  "f":5373067154,	// First tradeId
+  "l":5373067154,	// Last tradeId
+  "T":1726044473943,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993467,	// Aggregate tradeId
+  "p":"56381.70",	// Price
+  "q":"0.008",	// Quantity
+  "f":5373067155,	// First tradeId
+  "l":5373067155,	// Last tradeId
+  "T":1726044473944,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993468,	// Aggregate tradeId
+  "p":"56381.90",	// Price
+  "q":"0.237",	// Quantity
+  "f":5373067156,	// First tradeId
+  "l":5373067156,	// Last tradeId
+  "T":1726044473944,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993469,	// Aggregate tradeId
+  "p":"56382.00",	// Price
+  "q":"0.004",	// Quantity
+  "f":5373067157,	// First tradeId
+  "l":5373067158,	// Last tradeId
+  "T":1726044473954,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993470,	// Aggregate tradeId
+  "p":"56382.10",	// Price
+  "q":"0.006",	// Quantity
+  "f":5373067159,	// First tradeId
+  "l":5373067160,	// Last tradeId
+  "T":1726044473954,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993471,	// Aggregate tradeId
+  "p":"56382.20",	// Price
+  "q":"0.008",	// Quantity
+  "f":5373067161,	// First tradeId
+  "l":5373067162,	// Last tradeId
+  "T":1726044473954,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993472,	// Aggregate tradeId
+  "p":"56382.70",	// Price
+  "q":"0.027",	// Quantity
+  "f":5373067163,	// First tradeId
+  "l":5373067165,	// Last tradeId
+  "T":1726044473956,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993473,	// Aggregate tradeId
+  "p":"56383.00",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067166,	// First tradeId
+  "l":5373067166,	// Last tradeId
+  "T":1726044473957,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993474,	// Aggregate tradeId
+  "p":"56384.00",	// Price
+  "q":"0.004",	// Quantity
+  "f":5373067167,	// First tradeId
+  "l":5373067168,	// Last tradeId
+  "T":1726044473962,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993475,	// Aggregate tradeId
+  "p":"56384.10",	// Price
+  "q":"0.039",	// Quantity
+  "f":5373067169,	// First tradeId
+  "l":5373067173,	// Last tradeId
+  "T":1726044473963,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993476,	// Aggregate tradeId
+  "p":"56384.10",	// Price
+  "q":"0.029",	// Quantity
+  "f":5373067174,	// First tradeId
+  "l":5373067177,	// Last tradeId
+  "T":1726044474075,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993477,	// Aggregate tradeId
+  "p":"56384.20",	// Price
+  "q":"0.104",	// Quantity
+  "f":5373067178,	// First tradeId
+  "l":5373067181,	// Last tradeId
+  "T":1726044474172,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993478,	// Aggregate tradeId
+  "p":"56384.90",	// Price
+  "q":"0.559",	// Quantity
+  "f":5373067182,	// First tradeId
+  "l":5373067184,	// Last tradeId
+  "T":1726044474175,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993479,	// Aggregate tradeId
+  "p":"56385.00",	// Price
+  "q":"0.012",	// Quantity
+  "f":5373067185,	// First tradeId
+  "l":5373067188,	// Last tradeId
+  "T":1726044474178,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993480,	// Aggregate tradeId
+  "p":"56385.20",	// Price
+  "q":"0.008",	// Quantity
+  "f":5373067189,	// First tradeId
+  "l":5373067191,	// Last tradeId
+  "T":1726044474181,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993481,	// Aggregate tradeId
+  "p":"56385.70",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067192,	// First tradeId
+  "l":5373067192,	// Last tradeId
+  "T":1726044474184,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993482,	// Aggregate tradeId
+  "p":"56386.00",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067193,	// First tradeId
+  "l":5373067193,	// Last tradeId
+  "T":1726044474184,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993483,	// Aggregate tradeId
+  "p":"56386.20",	// Price
+  "q":"0.017",	// Quantity
+  "f":5373067194,	// First tradeId
+  "l":5373067196,	// Last tradeId
+  "T":1726044474184,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993484,	// Aggregate tradeId
+  "p":"56386.40",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067197,	// First tradeId
+  "l":5373067197,	// Last tradeId
+  "T":1726044474184,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993485,	// Aggregate tradeId
+  "p":"56386.50",	// Price
+  "q":"0.022",	// Quantity
+  "f":5373067198,	// First tradeId
+  "l":5373067201,	// Last tradeId
+  "T":1726044474184,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993486,	// Aggregate tradeId
+  "p":"56386.80",	// Price
+  "q":"0.624",	// Quantity
+  "f":5373067202,	// First tradeId
+  "l":5373067204,	// Last tradeId
+  "T":1726044474370,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993487,	// Aggregate tradeId
+  "p":"56386.90",	// Price
+  "q":"0.022",	// Quantity
+  "f":5373067205,	// First tradeId
+  "l":5373067206,	// Last tradeId
+  "T":1726044474370,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993488,	// Aggregate tradeId
+  "p":"56387.00",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067207,	// First tradeId
+  "l":5373067207,	// Last tradeId
+  "T":1726044474370,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993489,	// Aggregate tradeId
+  "p":"56388.00",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067208,	// First tradeId
+  "l":5373067208,	// Last tradeId
+  "T":1726044474370,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993490,	// Aggregate tradeId
+  "p":"56388.20",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067209,	// First tradeId
+  "l":5373067209,	// Last tradeId
+  "T":1726044474371,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993491,	// Aggregate tradeId
+  "p":"56388.40",	// Price
+  "q":"0.012",	// Quantity
+  "f":5373067210,	// First tradeId
+  "l":5373067210,	// Last tradeId
+  "T":1726044474371,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993492,	// Aggregate tradeId
+  "p":"56388.50",	// Price
+  "q":"0.006",	// Quantity
+  "f":5373067211,	// First tradeId
+  "l":5373067211,	// Last tradeId
+  "T":1726044474371,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993493,	// Aggregate tradeId
+  "p":"56388.60",	// Price
+  "q":"0.004",	// Quantity
+  "f":5373067212,	// First tradeId
+  "l":5373067212,	// Last tradeId
+  "T":1726044474371,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993494,	// Aggregate tradeId
+  "p":"56388.80",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067213,	// First tradeId
+  "l":5373067213,	// Last tradeId
+  "T":1726044474371,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993495,	// Aggregate tradeId
+  "p":"56389.00",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067214,	// First tradeId
+  "l":5373067214,	// Last tradeId
+  "T":1726044474371,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993496,	// Aggregate tradeId
+  "p":"56389.20",	// Price
+  "q":"0.371",	// Quantity
+  "f":5373067215,	// First tradeId
+  "l":5373067216,	// Last tradeId
+  "T":1726044474371,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993497,	// Aggregate tradeId
+  "p":"56389.40",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067217,	// First tradeId
+  "l":5373067217,	// Last tradeId
+  "T":1726044474371,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993498,	// Aggregate tradeId
+  "p":"56389.60",	// Price
+  "q":"0.015",	// Quantity
+  "f":5373067218,	// First tradeId
+  "l":5373067218,	// Last tradeId
+  "T":1726044474371,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993499,	// Aggregate tradeId
+  "p":"56389.80",	// Price
+  "q":"0.005",	// Quantity
+  "f":5373067219,	// First tradeId
+  "l":5373067219,	// Last tradeId
+  "T":1726044474371,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993500,	// Aggregate tradeId
+  "p":"56389.90",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067220,	// First tradeId
+  "l":5373067220,	// Last tradeId
+  "T":1726044474371,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993501,	// Aggregate tradeId
+  "p":"56390.00",	// Price
+  "q":"0.012",	// Quantity
+  "f":5373067221,	// First tradeId
+  "l":5373067222,	// Last tradeId
+  "T":1726044474371,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993502,	// Aggregate tradeId
+  "p":"56390.10",	// Price
+  "q":"0.774",	// Quantity
+  "f":5373067223,	// First tradeId
+  "l":5373067223,	// Last tradeId
+  "T":1726044474371,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993503,	// Aggregate tradeId
+  "p":"56390.30",	// Price
+  "q":"0.004",	// Quantity
+  "f":5373067224,	// First tradeId
+  "l":5373067224,	// Last tradeId
+  "T":1726044474371,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993504,	// Aggregate tradeId
+  "p":"56390.50",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067225,	// First tradeId
+  "l":5373067225,	// Last tradeId
+  "T":1726044474371,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993505,	// Aggregate tradeId
+  "p":"56390.70",	// Price
+  "q":"0.003",	// Quantity
+  "f":5373067226,	// First tradeId
+  "l":5373067226,	// Last tradeId
+  "T":1726044474371,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993506,	// Aggregate tradeId
+  "p":"56390.80",	// Price
+  "q":"0.020",	// Quantity
+  "f":5373067227,	// First tradeId
+  "l":5373067227,	// Last tradeId
+  "T":1726044474371,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993507,	// Aggregate tradeId
+  "p":"56390.90",	// Price
+  "q":"0.128",	// Quantity
+  "f":5373067228,	// First tradeId
+  "l":5373067231,	// Last tradeId
+  "T":1726044474371,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993508,	// Aggregate tradeId
+  "p":"56391.00",	// Price
+  "q":"0.004",	// Quantity
+  "f":5373067232,	// First tradeId
+  "l":5373067233,	// Last tradeId
+  "T":1726044474378,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993509,	// Aggregate tradeId
+  "p":"56391.20",	// Price
+  "q":"0.013",	// Quantity
+  "f":5373067234,	// First tradeId
+  "l":5373067235,	// Last tradeId
+  "T":1726044474632,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993510,	// Aggregate tradeId
+  "p":"56391.10",	// Price
+  "q":"0.008",	// Quantity
+  "f":5373067236,	// First tradeId
+  "l":5373067236,	// Last tradeId
+  "T":1726044474715,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993511,	// Aggregate tradeId
+  "p":"56391.20",	// Price
+  "q":"0.560",	// Quantity
+  "f":5373067237,	// First tradeId
+  "l":5373067246,	// Last tradeId
+  "T":1726044474741,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993512,	// Aggregate tradeId
+  "p":"56392.00",	// Price
+  "q":"0.004",	// Quantity
+  "f":5373067247,	// First tradeId
+  "l":5373067248,	// Last tradeId
+  "T":1726044474804,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993513,	// Aggregate tradeId
+  "p":"56392.70",	// Price
+  "q":"0.023",	// Quantity
+  "f":5373067249,	// First tradeId
+  "l":5373067252,	// Last tradeId
+  "T":1726044474808,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993514,	// Aggregate tradeId
+  "p":"56392.80",	// Price
+  "q":"0.009",	// Quantity
+  "f":5373067253,	// First tradeId
+  "l":5373067253,	// Last tradeId
+  "T":1726044474813,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993515,	// Aggregate tradeId
+  "p":"56393.00",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067254,	// First tradeId
+  "l":5373067254,	// Last tradeId
+  "T":1726044474813,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993516,	// Aggregate tradeId
+  "p":"56394.00",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067255,	// First tradeId
+  "l":5373067255,	// Last tradeId
+  "T":1726044474816,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993517,	// Aggregate tradeId
+  "p":"56394.40",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067256,	// First tradeId
+  "l":5373067256,	// Last tradeId
+  "T":1726044474816,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993518,	// Aggregate tradeId
+  "p":"56394.80",	// Price
+  "q":"0.007",	// Quantity
+  "f":5373067257,	// First tradeId
+  "l":5373067258,	// Last tradeId
+  "T":1726044474824,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993519,	// Aggregate tradeId
+  "p":"56395.00",	// Price
+  "q":"0.014",	// Quantity
+  "f":5373067259,	// First tradeId
+  "l":5373067261,	// Last tradeId
+  "T":1726044474824,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993520,	// Aggregate tradeId
+  "p":"56396.00",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067262,	// First tradeId
+  "l":5373067262,	// Last tradeId
+  "T":1726044474827,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993521,	// Aggregate tradeId
+  "p":"56396.00",	// Price
+  "q":"0.035",	// Quantity
+  "f":5373067263,	// First tradeId
+  "l":5373067263,	// Last tradeId
+  "T":1726044474974,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993522,	// Aggregate tradeId
+  "p":"56396.00",	// Price
+  "q":"0.020",	// Quantity
+  "f":5373067264,	// First tradeId
+  "l":5373067265,	// Last tradeId
+  "T":1726044475084,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993523,	// Aggregate tradeId
+  "p":"56396.10",	// Price
+  "q":"0.254",	// Quantity
+  "f":5373067266,	// First tradeId
+  "l":5373067266,	// Last tradeId
+  "T":1726044475175,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993524,	// Aggregate tradeId
+  "p":"56396.00",	// Price
+  "q":"0.024",	// Quantity
+  "f":5373067267,	// First tradeId
+  "l":5373067268,	// Last tradeId
+  "T":1726044475255,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993525,	// Aggregate tradeId
+  "p":"56396.00",	// Price
+  "q":"0.100",	// Quantity
+  "f":5373067269,	// First tradeId
+  "l":5373067269,	// Last tradeId
+  "T":1726044475488,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993526,	// Aggregate tradeId
+  "p":"56396.00",	// Price
+  "q":"2.128",	// Quantity
+  "f":5373067270,	// First tradeId
+  "l":5373067273,	// Last tradeId
+  "T":1726044475625,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993527,	// Aggregate tradeId
+  "p":"56396.10",	// Price
+  "q":"0.020",	// Quantity
+  "f":5373067274,	// First tradeId
+  "l":5373067274,	// Last tradeId
+  "T":1726044475638,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993528,	// Aggregate tradeId
+  "p":"56396.10",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067275,	// First tradeId
+  "l":5373067275,	// Last tradeId
+  "T":1726044475740,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993529,	// Aggregate tradeId
+  "p":"56396.00",	// Price
+  "q":"0.005",	// Quantity
+  "f":5373067276,	// First tradeId
+  "l":5373067276,	// Last tradeId
+  "T":1726044476629,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993530,	// Aggregate tradeId
+  "p":"56396.00",	// Price
+  "q":"0.072",	// Quantity
+  "f":5373067277,	// First tradeId
+  "l":5373067277,	// Last tradeId
+  "T":1726044476810,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993531,	// Aggregate tradeId
+  "p":"56396.00",	// Price
+  "q":"0.021",	// Quantity
+  "f":5373067278,	// First tradeId
+  "l":5373067278,	// Last tradeId
+  "T":1726044476950,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993532,	// Aggregate tradeId
+  "p":"56396.10",	// Price
+  "q":"0.021",	// Quantity
+  "f":5373067279,	// First tradeId
+  "l":5373067279,	// Last tradeId
+  "T":1726044477080,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993533,	// Aggregate tradeId
+  "p":"56396.00",	// Price
+  "q":"0.007",	// Quantity
+  "f":5373067280,	// First tradeId
+  "l":5373067282,	// Last tradeId
+  "T":1726044477157,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993534,	// Aggregate tradeId
+  "p":"56396.00",	// Price
+  "q":"0.083",	// Quantity
+  "f":5373067283,	// First tradeId
+  "l":5373067291,	// Last tradeId
+  "T":1726044477339,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993535,	// Aggregate tradeId
+  "p":"56396.10",	// Price
+  "q":"0.004",	// Quantity
+  "f":5373067292,	// First tradeId
+  "l":5373067292,	// Last tradeId
+  "T":1726044477375,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993536,	// Aggregate tradeId
+  "p":"56396.10",	// Price
+  "q":"0.005",	// Quantity
+  "f":5373067293,	// First tradeId
+  "l":5373067293,	// Last tradeId
+  "T":1726044477568,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993537,	// Aggregate tradeId
+  "p":"56396.10",	// Price
+  "q":"0.017",	// Quantity
+  "f":5373067294,	// First tradeId
+  "l":5373067294,	// Last tradeId
+  "T":1726044477733,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993538,	// Aggregate tradeId
+  "p":"56396.10",	// Price
+  "q":"0.179",	// Quantity
+  "f":5373067295,	// First tradeId
+  "l":5373067295,	// Last tradeId
+  "T":1726044477963,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993539,	// Aggregate tradeId
+  "p":"56396.10",	// Price
+  "q":"0.004",	// Quantity
+  "f":5373067296,	// First tradeId
+  "l":5373067297,	// Last tradeId
+  "T":1726044478075,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993540,	// Aggregate tradeId
+  "p":"56396.00",	// Price
+  "q":"0.347",	// Quantity
+  "f":5373067298,	// First tradeId
+  "l":5373067306,	// Last tradeId
+  "T":1726044478199,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993541,	// Aggregate tradeId
+  "p":"56396.10",	// Price
+  "q":"0.104",	// Quantity
+  "f":5373067307,	// First tradeId
+  "l":5373067309,	// Last tradeId
+  "T":1726044478417,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993542,	// Aggregate tradeId
+  "p":"56396.10",	// Price
+  "q":"0.052",	// Quantity
+  "f":5373067310,	// First tradeId
+  "l":5373067310,	// Last tradeId
+  "T":1726044478774,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993543,	// Aggregate tradeId
+  "p":"56396.00",	// Price
+  "q":"0.436",	// Quantity
+  "f":5373067311,	// First tradeId
+  "l":5373067337,	// Last tradeId
+  "T":1726044478904,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993544,	// Aggregate tradeId
+  "p":"56395.00",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067338,	// First tradeId
+  "l":5373067338,	// Last tradeId
+  "T":1726044478904,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993545,	// Aggregate tradeId
+  "p":"56394.60",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067339,	// First tradeId
+  "l":5373067339,	// Last tradeId
+  "T":1726044478916,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993546,	// Aggregate tradeId
+  "p":"56394.10",	// Price
+  "q":"0.027",	// Quantity
+  "f":5373067340,	// First tradeId
+  "l":5373067342,	// Last tradeId
+  "T":1726044478916,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993547,	// Aggregate tradeId
+  "p":"56394.00",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067343,	// First tradeId
+  "l":5373067343,	// Last tradeId
+  "T":1726044478919,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993548,	// Aggregate tradeId
+  "p":"56393.90",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067344,	// First tradeId
+  "l":5373067344,	// Last tradeId
+  "T":1726044478919,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993549,	// Aggregate tradeId
+  "p":"56393.40",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067345,	// First tradeId
+  "l":5373067345,	// Last tradeId
+  "T":1726044478919,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993550,	// Aggregate tradeId
+  "p":"56393.10",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067346,	// First tradeId
+  "l":5373067346,	// Last tradeId
+  "T":1726044478956,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993551,	// Aggregate tradeId
+  "p":"56393.10",	// Price
+  "q":"0.012",	// Quantity
+  "f":5373067347,	// First tradeId
+  "l":5373067348,	// Last tradeId
+  "T":1726044479269,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993552,	// Aggregate tradeId
+  "p":"56393.10",	// Price
+  "q":"0.023",	// Quantity
+  "f":5373067349,	// First tradeId
+  "l":5373067350,	// Last tradeId
+  "T":1726044479509,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993553,	// Aggregate tradeId
+  "p":"56393.10",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067351,	// First tradeId
+  "l":5373067351,	// Last tradeId
+  "T":1726044479752,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993554,	// Aggregate tradeId
+  "p":"56393.10",	// Price
+  "q":"0.013",	// Quantity
+  "f":5373067352,	// First tradeId
+  "l":5373067352,	// Last tradeId
+  "T":1726044480202,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993555,	// Aggregate tradeId
+  "p":"56393.10",	// Price
+  "q":"0.060",	// Quantity
+  "f":5373067353,	// First tradeId
+  "l":5373067353,	// Last tradeId
+  "T":1726044480353,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993556,	// Aggregate tradeId
+  "p":"56393.00",	// Price
+  "q":"0.156",	// Quantity
+  "f":5373067354,	// First tradeId
+  "l":5373067375,	// Last tradeId
+  "T":1726044480486,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993557,	// Aggregate tradeId
+  "p":"56392.60",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067376,	// First tradeId
+  "l":5373067376,	// Last tradeId
+  "T":1726044480487,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993558,	// Aggregate tradeId
+  "p":"56392.00",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067377,	// First tradeId
+  "l":5373067377,	// Last tradeId
+  "T":1726044480490,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993559,	// Aggregate tradeId
+  "p":"56391.80",	// Price
+  "q":"0.004",	// Quantity
+  "f":5373067378,	// First tradeId
+  "l":5373067380,	// Last tradeId
+  "T":1726044480490,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993560,	// Aggregate tradeId
+  "p":"56391.10",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067381,	// First tradeId
+  "l":5373067381,	// Last tradeId
+  "T":1726044480490,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993561,	// Aggregate tradeId
+  "p":"56391.00",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067382,	// First tradeId
+  "l":5373067382,	// Last tradeId
+  "T":1726044480490,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993562,	// Aggregate tradeId
+  "p":"56391.00",	// Price
+  "q":"0.017",	// Quantity
+  "f":5373067383,	// First tradeId
+  "l":5373067383,	// Last tradeId
+  "T":1726044480509,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993563,	// Aggregate tradeId
+  "p":"56391.00",	// Price
+  "q":"0.150",	// Quantity
+  "f":5373067384,	// First tradeId
+  "l":5373067384,	// Last tradeId
+  "T":1726044480755,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993564,	// Aggregate tradeId
+  "p":"56390.90",	// Price
+  "q":"0.009",	// Quantity
+  "f":5373067385,	// First tradeId
+  "l":5373067385,	// Last tradeId
+  "T":1726044481477,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993565,	// Aggregate tradeId
+  "p":"56391.00",	// Price
+  "q":"0.141",	// Quantity
+  "f":5373067386,	// First tradeId
+  "l":5373067386,	// Last tradeId
+  "T":1726044481644,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993566,	// Aggregate tradeId
+  "p":"56390.90",	// Price
+  "q":"0.195",	// Quantity
+  "f":5373067387,	// First tradeId
+  "l":5373067391,	// Last tradeId
+  "T":1726044481678,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993567,	// Aggregate tradeId
+  "p":"56391.00",	// Price
+  "q":"0.354",	// Quantity
+  "f":5373067392,	// First tradeId
+  "l":5373067394,	// Last tradeId
+  "T":1726044482438,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993568,	// Aggregate tradeId
+  "p":"56390.90",	// Price
+  "q":"0.005",	// Quantity
+  "f":5373067395,	// First tradeId
+  "l":5373067395,	// Last tradeId
+  "T":1726044482516,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993569,	// Aggregate tradeId
+  "p":"56391.00",	// Price
+  "q":"0.015",	// Quantity
+  "f":5373067396,	// First tradeId
+  "l":5373067397,	// Last tradeId
+  "T":1726044482838,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993570,	// Aggregate tradeId
+  "p":"56391.00",	// Price
+  "q":"0.005",	// Quantity
+  "f":5373067398,	// First tradeId
+  "l":5373067399,	// Last tradeId
+  "T":1726044483020,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993571,	// Aggregate tradeId
+  "p":"56391.00",	// Price
+  "q":"0.021",	// Quantity
+  "f":5373067400,	// First tradeId
+  "l":5373067400,	// Last tradeId
+  "T":1726044483167,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993572,	// Aggregate tradeId
+  "p":"56391.00",	// Price
+  "q":"0.012",	// Quantity
+  "f":5373067401,	// First tradeId
+  "l":5373067402,	// Last tradeId
+  "T":1726044483705,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993573,	// Aggregate tradeId
+  "p":"56390.90",	// Price
+  "q":"0.001",	// Quantity
+  "f":5373067403,	// First tradeId
+  "l":5373067403,	// Last tradeId
+  "T":1726044483766,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993574,	// Aggregate tradeId
+  "p":"56391.00",	// Price
+  "q":"0.129",	// Quantity
+  "f":5373067404,	// First tradeId
+  "l":5373067405,	// Last tradeId
+  "T":1726044484051,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993575,	// Aggregate tradeId
+  "p":"56391.00",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067406,	// First tradeId
+  "l":5373067406,	// Last tradeId
+  "T":1726044484257,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993576,	// Aggregate tradeId
+  "p":"56391.00",	// Price
+  "q":"0.015",	// Quantity
+  "f":5373067407,	// First tradeId
+  "l":5373067408,	// Last tradeId
+  "T":1726044484583,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993577,	// Aggregate tradeId
+  "p":"56391.00",	// Price
+  "q":"0.028",	// Quantity
+  "f":5373067409,	// First tradeId
+  "l":5373067409,	// Last tradeId
+  "T":1726044484999,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993578,	// Aggregate tradeId
+  "p":"56390.90",	// Price
+  "q":"0.028",	// Quantity
+  "f":5373067410,	// First tradeId
+  "l":5373067415,	// Last tradeId
+  "T":1726044485150,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993579,	// Aggregate tradeId
+  "p":"56390.90",	// Price
+  "q":"0.421",	// Quantity
+  "f":5373067416,	// First tradeId
+  "l":5373067416,	// Last tradeId
+  "T":1726044485278,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993580,	// Aggregate tradeId
+  "p":"56390.90",	// Price
+  "q":"0.008",	// Quantity
+  "f":5373067417,	// First tradeId
+  "l":5373067417,	// Last tradeId
+  "T":1726044485556,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993581,	// Aggregate tradeId
+  "p":"56391.00",	// Price
+  "q":"0.070",	// Quantity
+  "f":5373067418,	// First tradeId
+  "l":5373067418,	// Last tradeId
+  "T":1726044485664,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993582,	// Aggregate tradeId
+  "p":"56390.90",	// Price
+  "q":"0.494",	// Quantity
+  "f":5373067419,	// First tradeId
+  "l":5373067420,	// Last tradeId
+  "T":1726044485895,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993583,	// Aggregate tradeId
+  "p":"56390.90",	// Price
+  "q":"0.010",	// Quantity
+  "f":5373067421,	// First tradeId
+  "l":5373067421,	// Last tradeId
+  "T":1726044486031,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993584,	// Aggregate tradeId
+  "p":"56391.00",	// Price
+  "q":"0.886",	// Quantity
+  "f":5373067422,	// First tradeId
+  "l":5373067423,	// Last tradeId
+  "T":1726044486414,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993585,	// Aggregate tradeId
+  "p":"56390.90",	// Price
+  "q":"0.004",	// Quantity
+  "f":5373067424,	// First tradeId
+  "l":5373067424,	// Last tradeId
+  "T":1726044486469,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993586,	// Aggregate tradeId
+  "p":"56391.00",	// Price
+  "q":"0.020",	// Quantity
+  "f":5373067425,	// First tradeId
+  "l":5373067425,	// Last tradeId
+  "T":1726044486755,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993587,	// Aggregate tradeId
+  "p":"56390.90",	// Price
+  "q":"0.306",	// Quantity
+  "f":5373067426,	// First tradeId
+  "l":5373067426,	// Last tradeId
+  "T":1726044486905,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993588,	// Aggregate tradeId
+  "p":"56390.90",	// Price
+  "q":"0.163",	// Quantity
+  "f":5373067427,	// First tradeId
+  "l":5373067427,	// Last tradeId
+  "T":1726044487118,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993589,	// Aggregate tradeId
+  "p":"56391.00",	// Price
+  "q":"0.116",	// Quantity
+  "f":5373067428,	// First tradeId
+  "l":5373067430,	// Last tradeId
+  "T":1726044487186,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993590,	// Aggregate tradeId
+  "p":"56390.90",	// Price
+  "q":"0.023",	// Quantity
+  "f":5373067431,	// First tradeId
+  "l":5373067431,	// Last tradeId
+  "T":1726044487289,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993591,	// Aggregate tradeId
+  "p":"56391.00",	// Price
+  "q":"0.023",	// Quantity
+  "f":5373067432,	// First tradeId
+  "l":5373067432,	// Last tradeId
+  "T":1726044487371,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993592,	// Aggregate tradeId
+  "p":"56391.00",	// Price
+  "q":"0.067",	// Quantity
+  "f":5373067433,	// First tradeId
+  "l":5373067433,	// Last tradeId
+  "T":1726044487574,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993593,	// Aggregate tradeId
+  "p":"56391.00",	// Price
+  "q":"0.086",	// Quantity
+  "f":5373067434,	// First tradeId
+  "l":5373067434,	// Last tradeId
+  "T":1726044488353,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993594,	// Aggregate tradeId
+  "p":"56390.90",	// Price
+  "q":"0.100",	// Quantity
+  "f":5373067435,	// First tradeId
+  "l":5373067435,	// Last tradeId
+  "T":1726044489131,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993595,	// Aggregate tradeId
+  "p":"56391.00",	// Price
+  "q":"0.020",	// Quantity
+  "f":5373067436,	// First tradeId
+  "l":5373067437,	// Last tradeId
+  "T":1726044489387,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993596,	// Aggregate tradeId
+  "p":"56390.90",	// Price
+  "q":"0.046",	// Quantity
+  "f":5373067438,	// First tradeId
+  "l":5373067438,	// Last tradeId
+  "T":1726044489461,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993597,	// Aggregate tradeId
+  "p":"56391.00",	// Price
+  "q":"0.117",	// Quantity
+  "f":5373067439,	// First tradeId
+  "l":5373067440,	// Last tradeId
+  "T":1726044489563,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993598,	// Aggregate tradeId
+  "p":"56391.00",	// Price
+  "q":"0.003",	// Quantity
+  "f":5373067441,	// First tradeId
+  "l":5373067441,	// Last tradeId
+  "T":1726044489735,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993599,	// Aggregate tradeId
+  "p":"56390.90",	// Price
+  "q":"0.007",	// Quantity
+  "f":5373067442,	// First tradeId
+  "l":5373067442,	// Last tradeId
+  "T":1726044489863,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993600,	// Aggregate tradeId
+  "p":"56391.00",	// Price
+  "q":"0.044",	// Quantity
+  "f":5373067443,	// First tradeId
+  "l":5373067443,	// Last tradeId
+  "T":1726044490102,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993601,	// Aggregate tradeId
+  "p":"56391.00",	// Price
+  "q":"0.361",	// Quantity
+  "f":5373067444,	// First tradeId
+  "l":5373067445,	// Last tradeId
+  "T":1726044490315,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993602,	// Aggregate tradeId
+  "p":"56390.90",	// Price
+  "q":"0.013",	// Quantity
+  "f":5373067446,	// First tradeId
+  "l":5373067446,	// Last tradeId
+  "T":1726044490533,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993603,	// Aggregate tradeId
+  "p":"56391.00",	// Price
+  "q":"0.007",	// Quantity
+  "f":5373067447,	// First tradeId
+  "l":5373067447,	// Last tradeId
+  "T":1726044490548,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993604,	// Aggregate tradeId
+  "p":"56391.00",	// Price
+  "q":"3.404",	// Quantity
+  "f":5373067448,	// First tradeId
+  "l":5373067495,	// Last tradeId
+  "T":1726044490825,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993605,	// Aggregate tradeId
+  "p":"56391.10",	// Price
+  "q":"0.040",	// Quantity
+  "f":5373067496,	// First tradeId
+  "l":5373067496,	// Last tradeId
+  "T":1726044490826,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993606,	// Aggregate tradeId
+  "p":"56391.30",	// Price
+  "q":"0.366",	// Quantity
+  "f":5373067497,	// First tradeId
+  "l":5373067499,	// Last tradeId
+  "T":1726044490826,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993607,	// Aggregate tradeId
+  "p":"56391.40",	// Price
+  "q":"0.159",	// Quantity
+  "f":5373067500,	// First tradeId
+  "l":5373067504,	// Last tradeId
+  "T":1726044491059,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993608,	// Aggregate tradeId
+  "p":"56392.00",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067505,	// First tradeId
+  "l":5373067505,	// Last tradeId
+  "T":1726044491063,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993609,	// Aggregate tradeId
+  "p":"56392.60",	// Price
+  "q":"0.203",	// Quantity
+  "f":5373067506,	// First tradeId
+  "l":5373067506,	// Last tradeId
+  "T":1726044491480,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993610,	// Aggregate tradeId
+  "p":"56392.60",	// Price
+  "q":"0.071",	// Quantity
+  "f":5373067507,	// First tradeId
+  "l":5373067507,	// Last tradeId
+  "T":1726044491586,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993611,	// Aggregate tradeId
+  "p":"56392.60",	// Price
+  "q":"0.008",	// Quantity
+  "f":5373067508,	// First tradeId
+  "l":5373067510,	// Last tradeId
+  "T":1726044491864,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993612,	// Aggregate tradeId
+  "p":"56392.50",	// Price
+  "q":"0.141",	// Quantity
+  "f":5373067511,	// First tradeId
+  "l":5373067511,	// Last tradeId
+  "T":1726044492193,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993613,	// Aggregate tradeId
+  "p":"56392.50",	// Price
+  "q":"0.229",	// Quantity
+  "f":5373067512,	// First tradeId
+  "l":5373067512,	// Last tradeId
+  "T":1726044492341,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993614,	// Aggregate tradeId
+  "p":"56392.60",	// Price
+  "q":"0.115",	// Quantity
+  "f":5373067513,	// First tradeId
+  "l":5373067520,	// Last tradeId
+  "T":1726044492480,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993615,	// Aggregate tradeId
+  "p":"56392.50",	// Price
+  "q":"0.019",	// Quantity
+  "f":5373067521,	// First tradeId
+  "l":5373067521,	// Last tradeId
+  "T":1726044492588,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993616,	// Aggregate tradeId
+  "p":"56392.60",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067522,	// First tradeId
+  "l":5373067522,	// Last tradeId
+  "T":1726044492737,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993617,	// Aggregate tradeId
+  "p":"56392.60",	// Price
+  "q":"0.054",	// Quantity
+  "f":5373067523,	// First tradeId
+  "l":5373067527,	// Last tradeId
+  "T":1726044493540,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993618,	// Aggregate tradeId
+  "p":"56392.50",	// Price
+  "q":"0.504",	// Quantity
+  "f":5373067528,	// First tradeId
+  "l":5373067529,	// Last tradeId
+  "T":1726044493751,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993619,	// Aggregate tradeId
+  "p":"56392.60",	// Price
+  "q":"0.007",	// Quantity
+  "f":5373067530,	// First tradeId
+  "l":5373067530,	// Last tradeId
+  "T":1726044493912,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993620,	// Aggregate tradeId
+  "p":"56392.60",	// Price
+  "q":"0.003",	// Quantity
+  "f":5373067531,	// First tradeId
+  "l":5373067531,	// Last tradeId
+  "T":1726044494156,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993621,	// Aggregate tradeId
+  "p":"56392.50",	// Price
+  "q":"0.163",	// Quantity
+  "f":5373067532,	// First tradeId
+  "l":5373067533,	// Last tradeId
+  "T":1726044494412,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993622,	// Aggregate tradeId
+  "p":"56392.60",	// Price
+  "q":"0.009",	// Quantity
+  "f":5373067534,	// First tradeId
+  "l":5373067534,	// Last tradeId
+  "T":1726044494463,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993623,	// Aggregate tradeId
+  "p":"56392.50",	// Price
+  "q":"0.022",	// Quantity
+  "f":5373067535,	// First tradeId
+  "l":5373067535,	// Last tradeId
+  "T":1726044494521,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993624,	// Aggregate tradeId
+  "p":"56392.60",	// Price
+  "q":"0.014",	// Quantity
+  "f":5373067536,	// First tradeId
+  "l":5373067537,	// Last tradeId
+  "T":1726044494625,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993625,	// Aggregate tradeId
+  "p":"56392.50",	// Price
+  "q":"0.181",	// Quantity
+  "f":5373067538,	// First tradeId
+  "l":5373067538,	// Last tradeId
+  "T":1726044494696,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993626,	// Aggregate tradeId
+  "p":"56392.60",	// Price
+  "q":"0.121",	// Quantity
+  "f":5373067539,	// First tradeId
+  "l":5373067541,	// Last tradeId
+  "T":1726044494797,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993627,	// Aggregate tradeId
+  "p":"56392.50",	// Price
+  "q":"0.030",	// Quantity
+  "f":5373067542,	// First tradeId
+  "l":5373067542,	// Last tradeId
+  "T":1726044495438,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993628,	// Aggregate tradeId
+  "p":"56392.60",	// Price
+  "q":"0.360",	// Quantity
+  "f":5373067543,	// First tradeId
+  "l":5373067547,	// Last tradeId
+  "T":1726044495902,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993629,	// Aggregate tradeId
+  "p":"56392.50",	// Price
+  "q":"0.007",	// Quantity
+  "f":5373067548,	// First tradeId
+  "l":5373067548,	// Last tradeId
+  "T":1726044495936,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993630,	// Aggregate tradeId
+  "p":"56392.60",	// Price
+  "q":"0.109",	// Quantity
+  "f":5373067549,	// First tradeId
+  "l":5373067554,	// Last tradeId
+  "T":1726044495980,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993631,	// Aggregate tradeId
+  "p":"56392.50",	// Price
+  "q":"0.067",	// Quantity
+  "f":5373067555,	// First tradeId
+  "l":5373067555,	// Last tradeId
+  "T":1726044496012,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993632,	// Aggregate tradeId
+  "p":"56392.60",	// Price
+  "q":"0.009",	// Quantity
+  "f":5373067556,	// First tradeId
+  "l":5373067556,	// Last tradeId
+  "T":1726044496113,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993633,	// Aggregate tradeId
+  "p":"56392.60",	// Price
+  "q":"0.007",	// Quantity
+  "f":5373067557,	// First tradeId
+  "l":5373067557,	// Last tradeId
+  "T":1726044496365,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993634,	// Aggregate tradeId
+  "p":"56392.60",	// Price
+  "q":"0.007",	// Quantity
+  "f":5373067558,	// First tradeId
+  "l":5373067558,	// Last tradeId
+  "T":1726044496515,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993635,	// Aggregate tradeId
+  "p":"56392.50",	// Price
+  "q":"0.001",	// Quantity
+  "f":5373067559,	// First tradeId
+  "l":5373067559,	// Last tradeId
+  "T":1726044496540,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993636,	// Aggregate tradeId
+  "p":"56392.60",	// Price
+  "q":"0.008",	// Quantity
+  "f":5373067560,	// First tradeId
+  "l":5373067560,	// Last tradeId
+  "T":1726044496554,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993637,	// Aggregate tradeId
+  "p":"56392.50",	// Price
+  "q":"0.038",	// Quantity
+  "f":5373067561,	// First tradeId
+  "l":5373067561,	// Last tradeId
+  "T":1726044496662,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993638,	// Aggregate tradeId
+  "p":"56392.60",	// Price
+  "q":"0.039",	// Quantity
+  "f":5373067562,	// First tradeId
+  "l":5373067565,	// Last tradeId
+  "T":1726044496678,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993639,	// Aggregate tradeId
+  "p":"56392.50",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067566,	// First tradeId
+  "l":5373067566,	// Last tradeId
+  "T":1726044496808,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993640,	// Aggregate tradeId
+  "p":"56392.50",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067567,	// First tradeId
+  "l":5373067567,	// Last tradeId
+  "T":1726044497014,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993641,	// Aggregate tradeId
+  "p":"56392.60",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067568,	// First tradeId
+  "l":5373067568,	// Last tradeId
+  "T":1726044497291,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993642,	// Aggregate tradeId
+  "p":"56392.50",	// Price
+  "q":"0.054",	// Quantity
+  "f":5373067569,	// First tradeId
+  "l":5373067570,	// Last tradeId
+  "T":1726044497488,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993643,	// Aggregate tradeId
+  "p":"56392.60",	// Price
+  "q":"0.008",	// Quantity
+  "f":5373067571,	// First tradeId
+  "l":5373067571,	// Last tradeId
+  "T":1726044498117,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993644,	// Aggregate tradeId
+  "p":"56392.50",	// Price
+  "q":"1.645",	// Quantity
+  "f":5373067572,	// First tradeId
+  "l":5373067616,	// Last tradeId
+  "T":1726044498182,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993645,	// Aggregate tradeId
+  "p":"56392.40",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067617,	// First tradeId
+  "l":5373067617,	// Last tradeId
+  "T":1726044498185,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993646,	// Aggregate tradeId
+  "p":"56392.10",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067618,	// First tradeId
+  "l":5373067618,	// Last tradeId
+  "T":1726044498185,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993647,	// Aggregate tradeId
+  "p":"56392.00",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067619,	// First tradeId
+  "l":5373067619,	// Last tradeId
+  "T":1726044498185,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993648,	// Aggregate tradeId
+  "p":"56391.30",	// Price
+  "q":"0.005",	// Quantity
+  "f":5373067620,	// First tradeId
+  "l":5373067620,	// Last tradeId
+  "T":1726044498187,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993649,	// Aggregate tradeId
+  "p":"56391.20",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067621,	// First tradeId
+  "l":5373067621,	// Last tradeId
+  "T":1726044498187,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993650,	// Aggregate tradeId
+  "p":"56391.10",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067622,	// First tradeId
+  "l":5373067622,	// Last tradeId
+  "T":1726044498187,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993651,	// Aggregate tradeId
+  "p":"56391.00",	// Price
+  "q":"0.061",	// Quantity
+  "f":5373067623,	// First tradeId
+  "l":5373067625,	// Last tradeId
+  "T":1726044498187,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993652,	// Aggregate tradeId
+  "p":"56391.10",	// Price
+  "q":"0.387",	// Quantity
+  "f":5373067626,	// First tradeId
+  "l":5373067626,	// Last tradeId
+  "T":1726044498203,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993653,	// Aggregate tradeId
+  "p":"56391.10",	// Price
+  "q":"0.213",	// Quantity
+  "f":5373067627,	// First tradeId
+  "l":5373067627,	// Last tradeId
+  "T":1726044498581,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993654,	// Aggregate tradeId
+  "p":"56391.10",	// Price
+  "q":"0.018",	// Quantity
+  "f":5373067628,	// First tradeId
+  "l":5373067630,	// Last tradeId
+  "T":1726044498686,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993655,	// Aggregate tradeId
+  "p":"56391.10",	// Price
+  "q":"0.015",	// Quantity
+  "f":5373067631,	// First tradeId
+  "l":5373067632,	// Last tradeId
+  "T":1726044498923,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993656,	// Aggregate tradeId
+  "p":"56391.10",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067633,	// First tradeId
+  "l":5373067633,	// Last tradeId
+  "T":1726044499034,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993657,	// Aggregate tradeId
+  "p":"56391.10",	// Price
+  "q":"0.423",	// Quantity
+  "f":5373067634,	// First tradeId
+  "l":5373067635,	// Last tradeId
+  "T":1726044499175,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993658,	// Aggregate tradeId
+  "p":"56391.10",	// Price
+  "q":"0.106",	// Quantity
+  "f":5373067636,	// First tradeId
+  "l":5373067637,	// Last tradeId
+  "T":1726044499345,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993659,	// Aggregate tradeId
+  "p":"56391.10",	// Price
+  "q":"0.213",	// Quantity
+  "f":5373067638,	// First tradeId
+  "l":5373067638,	// Last tradeId
+  "T":1726044499470,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993660,	// Aggregate tradeId
+  "p":"56391.10",	// Price
+  "q":"0.088",	// Quantity
+  "f":5373067639,	// First tradeId
+  "l":5373067639,	// Last tradeId
+  "T":1726044499594,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993661,	// Aggregate tradeId
+  "p":"56391.00",	// Price
+  "q":"0.042",	// Quantity
+  "f":5373067640,	// First tradeId
+  "l":5373067640,	// Last tradeId
+  "T":1726044499736,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993662,	// Aggregate tradeId
+  "p":"56391.10",	// Price
+  "q":"0.150",	// Quantity
+  "f":5373067641,	// First tradeId
+  "l":5373067643,	// Last tradeId
+  "T":1726044499846,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993663,	// Aggregate tradeId
+  "p":"56391.00",	// Price
+  "q":"0.004",	// Quantity
+  "f":5373067644,	// First tradeId
+  "l":5373067644,	// Last tradeId
+  "T":1726044500019,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993664,	// Aggregate tradeId
+  "p":"56391.10",	// Price
+  "q":"0.017",	// Quantity
+  "f":5373067645,	// First tradeId
+  "l":5373067645,	// Last tradeId
+  "T":1726044500174,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993665,	// Aggregate tradeId
+  "p":"56391.00",	// Price
+  "q":"0.006",	// Quantity
+  "f":5373067646,	// First tradeId
+  "l":5373067646,	// Last tradeId
+  "T":1726044500183,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993666,	// Aggregate tradeId
+  "p":"56391.10",	// Price
+  "q":"0.005",	// Quantity
+  "f":5373067647,	// First tradeId
+  "l":5373067647,	// Last tradeId
+  "T":1726044500562,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993667,	// Aggregate tradeId
+  "p":"56391.00",	// Price
+  "q":"0.018",	// Quantity
+  "f":5373067648,	// First tradeId
+  "l":5373067648,	// Last tradeId
+  "T":1726044500567,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993668,	// Aggregate tradeId
+  "p":"56391.10",	// Price
+  "q":"0.091",	// Quantity
+  "f":5373067649,	// First tradeId
+  "l":5373067650,	// Last tradeId
+  "T":1726044500778,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993669,	// Aggregate tradeId
+  "p":"56391.10",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067651,	// First tradeId
+  "l":5373067651,	// Last tradeId
+  "T":1726044500914,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993670,	// Aggregate tradeId
+  "p":"56391.10",	// Price
+  "q":"0.007",	// Quantity
+  "f":5373067652,	// First tradeId
+  "l":5373067653,	// Last tradeId
+  "T":1726044501120,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993671,	// Aggregate tradeId
+  "p":"56391.00",	// Price
+  "q":"0.045",	// Quantity
+  "f":5373067654,	// First tradeId
+  "l":5373067654,	// Last tradeId
+  "T":1726044501298,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993672,	// Aggregate tradeId
+  "p":"56391.10",	// Price
+  "q":"0.022",	// Quantity
+  "f":5373067655,	// First tradeId
+  "l":5373067655,	// Last tradeId
+  "T":1726044501487,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993673,	// Aggregate tradeId
+  "p":"56391.00",	// Price
+  "q":"0.011",	// Quantity
+  "f":5373067656,	// First tradeId
+  "l":5373067656,	// Last tradeId
+  "T":1726044501680,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993674,	// Aggregate tradeId
+  "p":"56391.00",	// Price
+  "q":"0.003",	// Quantity
+  "f":5373067657,	// First tradeId
+  "l":5373067657,	// Last tradeId
+  "T":1726044501953,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993675,	// Aggregate tradeId
+  "p":"56391.00",	// Price
+  "q":"0.045",	// Quantity
+  "f":5373067658,	// First tradeId
+  "l":5373067659,	// Last tradeId
+  "T":1726044502137,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993676,	// Aggregate tradeId
+  "p":"56391.00",	// Price
+  "q":"0.142",	// Quantity
+  "f":5373067660,	// First tradeId
+  "l":5373067661,	// Last tradeId
+  "T":1726044502464,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993677,	// Aggregate tradeId
+  "p":"56391.10",	// Price
+  "q":"0.035",	// Quantity
+  "f":5373067662,	// First tradeId
+  "l":5373067664,	// Last tradeId
+  "T":1726044502612,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993678,	// Aggregate tradeId
+  "p":"56391.10",	// Price
+  "q":"0.008",	// Quantity
+  "f":5373067665,	// First tradeId
+  "l":5373067665,	// Last tradeId
+  "T":1726044502731,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993679,	// Aggregate tradeId
+  "p":"56391.00",	// Price
+  "q":"0.013",	// Quantity
+  "f":5373067666,	// First tradeId
+  "l":5373067666,	// Last tradeId
+  "T":1726044503410,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993680,	// Aggregate tradeId
+  "p":"56391.00",	// Price
+  "q":"0.084",	// Quantity
+  "f":5373067667,	// First tradeId
+  "l":5373067668,	// Last tradeId
+  "T":1726044503616,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993681,	// Aggregate tradeId
+  "p":"56391.10",	// Price
+  "q":"0.010",	// Quantity
+  "f":5373067669,	// First tradeId
+  "l":5373067669,	// Last tradeId
+  "T":1726044503682,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993682,	// Aggregate tradeId
+  "p":"56391.00",	// Price
+  "q":"0.038",	// Quantity
+  "f":5373067670,	// First tradeId
+  "l":5373067671,	// Last tradeId
+  "T":1726044503723,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993683,	// Aggregate tradeId
+  "p":"56391.10",	// Price
+  "q":"0.029",	// Quantity
+  "f":5373067672,	// First tradeId
+  "l":5373067673,	// Last tradeId
+  "T":1726044503830,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993684,	// Aggregate tradeId
+  "p":"56391.10",	// Price
+  "q":"1.000",	// Quantity
+  "f":5373067674,	// First tradeId
+  "l":5373067679,	// Last tradeId
+  "T":1726044504047,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993685,	// Aggregate tradeId
+  "p":"56391.10",	// Price
+  "q":"6.920",	// Quantity
+  "f":5373067680,	// First tradeId
+  "l":5373067715,	// Last tradeId
+  "T":1726044504237,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993686,	// Aggregate tradeId
+  "p":"56391.00",	// Price
+  "q":"0.100",	// Quantity
+  "f":5373067716,	// First tradeId
+  "l":5373067716,	// Last tradeId
+  "T":1726044504457,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993687,	// Aggregate tradeId
+  "p":"56391.10",	// Price
+  "q":"0.088",	// Quantity
+  "f":5373067717,	// First tradeId
+  "l":5373067717,	// Last tradeId
+  "T":1726044504463,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993688,	// Aggregate tradeId
+  "p":"56391.10",	// Price
+  "q":"0.350",	// Quantity
+  "f":5373067718,	// First tradeId
+  "l":5373067719,	// Last tradeId
+  "T":1726044504687,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993689,	// Aggregate tradeId
+  "p":"56391.10",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067720,	// First tradeId
+  "l":5373067720,	// Last tradeId
+  "T":1726044504889,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993690,	// Aggregate tradeId
+  "p":"56391.10",	// Price
+  "q":"0.521",	// Quantity
+  "f":5373067721,	// First tradeId
+  "l":5373067731,	// Last tradeId
+  "T":1726044505051,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993691,	// Aggregate tradeId
+  "p":"56391.20",	// Price
+  "q":"0.254",	// Quantity
+  "f":5373067732,	// First tradeId
+  "l":5373067738,	// Last tradeId
+  "T":1726044505083,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993692,	// Aggregate tradeId
+  "p":"56392.00",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067739,	// First tradeId
+  "l":5373067739,	// Last tradeId
+  "T":1726044505083,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993693,	// Aggregate tradeId
+  "p":"56392.30",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067740,	// First tradeId
+  "l":5373067740,	// Last tradeId
+  "T":1726044505083,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993694,	// Aggregate tradeId
+  "p":"56392.50",	// Price
+  "q":"0.036",	// Quantity
+  "f":5373067741,	// First tradeId
+  "l":5373067741,	// Last tradeId
+  "T":1726044505083,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993695,	// Aggregate tradeId
+  "p":"56392.60",	// Price
+  "q":"0.100",	// Quantity
+  "f":5373067742,	// First tradeId
+  "l":5373067743,	// Last tradeId
+  "T":1726044505435,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993696,	// Aggregate tradeId
+  "p":"56392.50",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067744,	// First tradeId
+  "l":5373067744,	// Last tradeId
+  "T":1726044505488,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993697,	// Aggregate tradeId
+  "p":"56392.60",	// Price
+  "q":"0.103",	// Quantity
+  "f":5373067745,	// First tradeId
+  "l":5373067749,	// Last tradeId
+  "T":1726044505529,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993698,	// Aggregate tradeId
+  "p":"56392.60",	// Price
+  "q":"0.007",	// Quantity
+  "f":5373067750,	// First tradeId
+  "l":5373067750,	// Last tradeId
+  "T":1726044505642,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993699,	// Aggregate tradeId
+  "p":"56392.60",	// Price
+  "q":"0.012",	// Quantity
+  "f":5373067751,	// First tradeId
+  "l":5373067751,	// Last tradeId
+  "T":1726044505874,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993700,	// Aggregate tradeId
+  "p":"56392.50",	// Price
+  "q":"0.137",	// Quantity
+  "f":5373067752,	// First tradeId
+  "l":5373067753,	// Last tradeId
+  "T":1726044505958,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993701,	// Aggregate tradeId
+  "p":"56392.50",	// Price
+  "q":"0.088",	// Quantity
+  "f":5373067754,	// First tradeId
+  "l":5373067755,	// Last tradeId
+  "T":1726044506065,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993702,	// Aggregate tradeId
+  "p":"56392.60",	// Price
+  "q":"0.003",	// Quantity
+  "f":5373067756,	// First tradeId
+  "l":5373067756,	// Last tradeId
+  "T":1726044506257,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993703,	// Aggregate tradeId
+  "p":"56392.60",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067757,	// First tradeId
+  "l":5373067757,	// Last tradeId
+  "T":1726044506460,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993704,	// Aggregate tradeId
+  "p":"56392.60",	// Price
+  "q":"0.007",	// Quantity
+  "f":5373067758,	// First tradeId
+  "l":5373067759,	// Last tradeId
+  "T":1726044506888,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993705,	// Aggregate tradeId
+  "p":"56392.50",	// Price
+  "q":"0.007",	// Quantity
+  "f":5373067760,	// First tradeId
+  "l":5373067760,	// Last tradeId
+  "T":1726044507347,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993706,	// Aggregate tradeId
+  "p":"56392.60",	// Price
+  "q":"0.145",	// Quantity
+  "f":5373067761,	// First tradeId
+  "l":5373067762,	// Last tradeId
+  "T":1726044507367,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993707,	// Aggregate tradeId
+  "p":"56392.50",	// Price
+  "q":"0.027",	// Quantity
+  "f":5373067763,	// First tradeId
+  "l":5373067763,	// Last tradeId
+  "T":1726044507458,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993708,	// Aggregate tradeId
+  "p":"56392.60",	// Price
+  "q":"0.004",	// Quantity
+  "f":5373067764,	// First tradeId
+  "l":5373067764,	// Last tradeId
+  "T":1726044507549,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993709,	// Aggregate tradeId
+  "p":"56392.60",	// Price
+  "q":"0.007",	// Quantity
+  "f":5373067765,	// First tradeId
+  "l":5373067765,	// Last tradeId
+  "T":1726044507757,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993710,	// Aggregate tradeId
+  "p":"56392.50",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067766,	// First tradeId
+  "l":5373067766,	// Last tradeId
+  "T":1726044508090,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993711,	// Aggregate tradeId
+  "p":"56392.60",	// Price
+  "q":"0.059",	// Quantity
+  "f":5373067767,	// First tradeId
+  "l":5373067768,	// Last tradeId
+  "T":1726044508264,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993712,	// Aggregate tradeId
+  "p":"56392.60",	// Price
+  "q":"0.269",	// Quantity
+  "f":5373067769,	// First tradeId
+  "l":5373067769,	// Last tradeId
+  "T":1726044508439,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993713,	// Aggregate tradeId
+  "p":"56392.60",	// Price
+  "q":"0.099",	// Quantity
+  "f":5373067770,	// First tradeId
+  "l":5373067795,	// Last tradeId
+  "T":1726044508571,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993714,	// Aggregate tradeId
+  "p":"56392.50",	// Price
+  "q":"0.053",	// Quantity
+  "f":5373067796,	// First tradeId
+  "l":5373067796,	// Last tradeId
+  "T":1726044508734,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993715,	// Aggregate tradeId
+  "p":"56392.60",	// Price
+  "q":"0.380",	// Quantity
+  "f":5373067797,	// First tradeId
+  "l":5373067797,	// Last tradeId
+  "T":1726044508826,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993716,	// Aggregate tradeId
+  "p":"56392.60",	// Price
+  "q":"0.090",	// Quantity
+  "f":5373067798,	// First tradeId
+  "l":5373067800,	// Last tradeId
+  "T":1726044508927,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993717,	// Aggregate tradeId
+  "p":"56392.50",	// Price
+  "q":"0.900",	// Quantity
+  "f":5373067801,	// First tradeId
+  "l":5373067805,	// Last tradeId
+  "T":1726044509141,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993718,	// Aggregate tradeId
+  "p":"56392.60",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067806,	// First tradeId
+  "l":5373067806,	// Last tradeId
+  "T":1726044509524,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993719,	// Aggregate tradeId
+  "p":"56392.60",	// Price
+  "q":"0.260",	// Quantity
+  "f":5373067807,	// First tradeId
+  "l":5373067819,	// Last tradeId
+  "T":1726044509685,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993720,	// Aggregate tradeId
+  "p":"56393.00",	// Price
+  "q":"0.118",	// Quantity
+  "f":5373067820,	// First tradeId
+  "l":5373067821,	// Last tradeId
+  "T":1726044509698,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993721,	// Aggregate tradeId
+  "p":"56393.10",	// Price
+  "q":"0.006",	// Quantity
+  "f":5373067822,	// First tradeId
+  "l":5373067823,	// Last tradeId
+  "T":1726044509698,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993722,	// Aggregate tradeId
+  "p":"56393.80",	// Price
+  "q":"0.007",	// Quantity
+  "f":5373067824,	// First tradeId
+  "l":5373067826,	// Last tradeId
+  "T":1726044509702,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993723,	// Aggregate tradeId
+  "p":"56394.00",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067827,	// First tradeId
+  "l":5373067828,	// Last tradeId
+  "T":1726044509702,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993724,	// Aggregate tradeId
+  "p":"56394.20",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067829,	// First tradeId
+  "l":5373067829,	// Last tradeId
+  "T":1726044509702,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993725,	// Aggregate tradeId
+  "p":"56394.80",	// Price
+  "q":"0.026",	// Quantity
+  "f":5373067830,	// First tradeId
+  "l":5373067830,	// Last tradeId
+  "T":1726044509826,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993726,	// Aggregate tradeId
+  "p":"56394.80",	// Price
+  "q":"0.082",	// Quantity
+  "f":5373067831,	// First tradeId
+  "l":5373067832,	// Last tradeId
+  "T":1726044510100,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993727,	// Aggregate tradeId
+  "p":"56394.70",	// Price
+  "q":"0.001",	// Quantity
+  "f":5373067833,	// First tradeId
+  "l":5373067833,	// Last tradeId
+  "T":1726044510624,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993728,	// Aggregate tradeId
+  "p":"56394.70",	// Price
+  "q":"0.154",	// Quantity
+  "f":5373067834,	// First tradeId
+  "l":5373067834,	// Last tradeId
+  "T":1726044511000,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993729,	// Aggregate tradeId
+  "p":"56394.80",	// Price
+  "q":"0.007",	// Quantity
+  "f":5373067835,	// First tradeId
+  "l":5373067836,	// Last tradeId
+  "T":1726044511114,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993730,	// Aggregate tradeId
+  "p":"56394.80",	// Price
+  "q":"0.020",	// Quantity
+  "f":5373067837,	// First tradeId
+  "l":5373067837,	// Last tradeId
+  "T":1726044511277,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993731,	// Aggregate tradeId
+  "p":"56394.70",	// Price
+  "q":"0.013",	// Quantity
+  "f":5373067838,	// First tradeId
+  "l":5373067839,	// Last tradeId
+  "T":1726044511646,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993732,	// Aggregate tradeId
+  "p":"56394.80",	// Price
+  "q":"0.173",	// Quantity
+  "f":5373067840,	// First tradeId
+  "l":5373067842,	// Last tradeId
+  "T":1726044511702,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993733,	// Aggregate tradeId
+  "p":"56394.80",	// Price
+  "q":"0.115",	// Quantity
+  "f":5373067843,	// First tradeId
+  "l":5373067845,	// Last tradeId
+  "T":1726044511842,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993734,	// Aggregate tradeId
+  "p":"56394.80",	// Price
+  "q":"0.001",	// Quantity
+  "f":5373067846,	// First tradeId
+  "l":5373067846,	// Last tradeId
+  "T":1726044512072,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993735,	// Aggregate tradeId
+  "p":"56394.70",	// Price
+  "q":"0.101",	// Quantity
+  "f":5373067847,	// First tradeId
+  "l":5373067847,	// Last tradeId
+  "T":1726044512186,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993736,	// Aggregate tradeId
+  "p":"56394.80",	// Price
+  "q":"0.035",	// Quantity
+  "f":5373067848,	// First tradeId
+  "l":5373067848,	// Last tradeId
+  "T":1726044512315,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993737,	// Aggregate tradeId
+  "p":"56394.80",	// Price
+  "q":"0.619",	// Quantity
+  "f":5373067849,	// First tradeId
+  "l":5373067850,	// Last tradeId
+  "T":1726044512796,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993738,	// Aggregate tradeId
+  "p":"56394.80",	// Price
+  "q":"0.014",	// Quantity
+  "f":5373067851,	// First tradeId
+  "l":5373067851,	// Last tradeId
+  "T":1726044513165,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993739,	// Aggregate tradeId
+  "p":"56394.80",	// Price
+  "q":"0.005",	// Quantity
+  "f":5373067852,	// First tradeId
+  "l":5373067852,	// Last tradeId
+  "T":1726044513465,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993740,	// Aggregate tradeId
+  "p":"56394.70",	// Price
+  "q":"0.010",	// Quantity
+  "f":5373067853,	// First tradeId
+  "l":5373067853,	// Last tradeId
+  "T":1726044513674,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993741,	// Aggregate tradeId
+  "p":"56394.80",	// Price
+  "q":"0.008",	// Quantity
+  "f":5373067854,	// First tradeId
+  "l":5373067854,	// Last tradeId
+  "T":1726044513981,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993742,	// Aggregate tradeId
+  "p":"56394.80",	// Price
+  "q":"0.006",	// Quantity
+  "f":5373067855,	// First tradeId
+  "l":5373067855,	// Last tradeId
+  "T":1726044514257,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993743,	// Aggregate tradeId
+  "p":"56394.80",	// Price
+  "q":"0.055",	// Quantity
+  "f":5373067856,	// First tradeId
+  "l":5373067856,	// Last tradeId
+  "T":1726044514457,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993744,	// Aggregate tradeId
+  "p":"56394.70",	// Price
+  "q":"0.020",	// Quantity
+  "f":5373067857,	// First tradeId
+  "l":5373067857,	// Last tradeId
+  "T":1726044514526,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993745,	// Aggregate tradeId
+  "p":"56394.80",	// Price
+  "q":"0.177",	// Quantity
+  "f":5373067858,	// First tradeId
+  "l":5373067858,	// Last tradeId
+  "T":1726044514699,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993746,	// Aggregate tradeId
+  "p":"56394.70",	// Price
+  "q":"0.003",	// Quantity
+  "f":5373067859,	// First tradeId
+  "l":5373067859,	// Last tradeId
+  "T":1726044514712,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993747,	// Aggregate tradeId
+  "p":"56394.80",	// Price
+  "q":"0.021",	// Quantity
+  "f":5373067860,	// First tradeId
+  "l":5373067860,	// Last tradeId
+  "T":1726044514721,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993748,	// Aggregate tradeId
+  "p":"56394.80",	// Price
+  "q":"0.088",	// Quantity
+  "f":5373067861,	// First tradeId
+  "l":5373067862,	// Last tradeId
+  "T":1726044514845,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993749,	// Aggregate tradeId
+  "p":"56394.70",	// Price
+  "q":"0.001",	// Quantity
+  "f":5373067863,	// First tradeId
+  "l":5373067863,	// Last tradeId
+  "T":1726044514856,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993750,	// Aggregate tradeId
+  "p":"56394.80",	// Price
+  "q":"0.500",	// Quantity
+  "f":5373067864,	// First tradeId
+  "l":5373067864,	// Last tradeId
+  "T":1726044515216,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993751,	// Aggregate tradeId
+  "p":"56394.80",	// Price
+  "q":"0.083",	// Quantity
+  "f":5373067865,	// First tradeId
+  "l":5373067870,	// Last tradeId
+  "T":1726044515529,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993752,	// Aggregate tradeId
+  "p":"56394.80",	// Price
+  "q":"0.116",	// Quantity
+  "f":5373067871,	// First tradeId
+  "l":5373067877,	// Last tradeId
+  "T":1726044515709,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993753,	// Aggregate tradeId
+  "p":"56394.80",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067878,	// First tradeId
+  "l":5373067878,	// Last tradeId
+  "T":1726044515999,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993754,	// Aggregate tradeId
+  "p":"56394.80",	// Price
+  "q":"0.016",	// Quantity
+  "f":5373067879,	// First tradeId
+  "l":5373067880,	// Last tradeId
+  "T":1726044516677,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993755,	// Aggregate tradeId
+  "p":"56394.80",	// Price
+  "q":"0.925",	// Quantity
+  "f":5373067881,	// First tradeId
+  "l":5373067884,	// Last tradeId
+  "T":1726044516792,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993756,	// Aggregate tradeId
+  "p":"56394.80",	// Price
+  "q":"0.009",	// Quantity
+  "f":5373067885,	// First tradeId
+  "l":5373067885,	// Last tradeId
+  "T":1726044516971,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993757,	// Aggregate tradeId
+  "p":"56394.80",	// Price
+  "q":"0.044",	// Quantity
+  "f":5373067886,	// First tradeId
+  "l":5373067887,	// Last tradeId
+  "T":1726044517095,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993758,	// Aggregate tradeId
+  "p":"56394.70",	// Price
+  "q":"0.011",	// Quantity
+  "f":5373067888,	// First tradeId
+  "l":5373067888,	// Last tradeId
+  "T":1726044517340,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993759,	// Aggregate tradeId
+  "p":"56394.70",	// Price
+  "q":"0.008",	// Quantity
+  "f":5373067889,	// First tradeId
+  "l":5373067889,	// Last tradeId
+  "T":1726044517504,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993760,	// Aggregate tradeId
+  "p":"56394.80",	// Price
+  "q":"0.050",	// Quantity
+  "f":5373067890,	// First tradeId
+  "l":5373067890,	// Last tradeId
+  "T":1726044518225,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993761,	// Aggregate tradeId
+  "p":"56394.70",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067891,	// First tradeId
+  "l":5373067891,	// Last tradeId
+  "T":1726044518248,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993762,	// Aggregate tradeId
+  "p":"56394.80",	// Price
+  "q":"0.040",	// Quantity
+  "f":5373067892,	// First tradeId
+  "l":5373067892,	// Last tradeId
+  "T":1726044518544,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993763,	// Aggregate tradeId
+  "p":"56394.80",	// Price
+  "q":"0.062",	// Quantity
+  "f":5373067893,	// First tradeId
+  "l":5373067895,	// Last tradeId
+  "T":1726044518734,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993764,	// Aggregate tradeId
+  "p":"56394.70",	// Price
+  "q":"0.040",	// Quantity
+  "f":5373067896,	// First tradeId
+  "l":5373067896,	// Last tradeId
+  "T":1726044519028,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993765,	// Aggregate tradeId
+  "p":"56394.80",	// Price
+  "q":"0.646",	// Quantity
+  "f":5373067897,	// First tradeId
+  "l":5373067903,	// Last tradeId
+  "T":1726044519150,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993766,	// Aggregate tradeId
+  "p":"56394.80",	// Price
+  "q":"0.485",	// Quantity
+  "f":5373067904,	// First tradeId
+  "l":5373067909,	// Last tradeId
+  "T":1726044519292,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993767,	// Aggregate tradeId
+  "p":"56394.90",	// Price
+  "q":"0.047",	// Quantity
+  "f":5373067910,	// First tradeId
+  "l":5373067912,	// Last tradeId
+  "T":1726044519366,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993768,	// Aggregate tradeId
+  "p":"56395.00",	// Price
+  "q":"0.040",	// Quantity
+  "f":5373067913,	// First tradeId
+  "l":5373067915,	// Last tradeId
+  "T":1726044519366,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993769,	// Aggregate tradeId
+  "p":"56395.30",	// Price
+  "q":"0.096",	// Quantity
+  "f":5373067916,	// First tradeId
+  "l":5373067916,	// Last tradeId
+  "T":1726044519366,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993770,	// Aggregate tradeId
+  "p":"56395.30",	// Price
+  "q":"0.006",	// Quantity
+  "f":5373067917,	// First tradeId
+  "l":5373067917,	// Last tradeId
+  "T":1726044519391,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993771,	// Aggregate tradeId
+  "p":"56395.40",	// Price
+  "q":"0.004",	// Quantity
+  "f":5373067918,	// First tradeId
+  "l":5373067918,	// Last tradeId
+  "T":1726044519429,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993772,	// Aggregate tradeId
+  "p":"56395.40",	// Price
+  "q":"0.017",	// Quantity
+  "f":5373067919,	// First tradeId
+  "l":5373067919,	// Last tradeId
+  "T":1726044519634,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993773,	// Aggregate tradeId
+  "p":"56395.40",	// Price
+  "q":"0.025",	// Quantity
+  "f":5373067920,	// First tradeId
+  "l":5373067920,	// Last tradeId
+  "T":1726044520000,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993774,	// Aggregate tradeId
+  "p":"56395.40",	// Price
+  "q":"0.075",	// Quantity
+  "f":5373067921,	// First tradeId
+  "l":5373067922,	// Last tradeId
+  "T":1726044520195,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993775,	// Aggregate tradeId
+  "p":"56395.40",	// Price
+  "q":"0.003",	// Quantity
+  "f":5373067923,	// First tradeId
+  "l":5373067923,	// Last tradeId
+  "T":1726044520371,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993776,	// Aggregate tradeId
+  "p":"56395.40",	// Price
+  "q":"0.017",	// Quantity
+  "f":5373067924,	// First tradeId
+  "l":5373067925,	// Last tradeId
+  "T":1726044520771,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993777,	// Aggregate tradeId
+  "p":"56395.40",	// Price
+  "q":"0.076",	// Quantity
+  "f":5373067926,	// First tradeId
+  "l":5373067927,	// Last tradeId
+  "T":1726044521057,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993778,	// Aggregate tradeId
+  "p":"56395.40",	// Price
+  "q":"0.008",	// Quantity
+  "f":5373067928,	// First tradeId
+  "l":5373067928,	// Last tradeId
+  "T":1726044521180,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993779,	// Aggregate tradeId
+  "p":"56395.40",	// Price
+  "q":"0.006",	// Quantity
+  "f":5373067929,	// First tradeId
+  "l":5373067929,	// Last tradeId
+  "T":1726044521548,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993780,	// Aggregate tradeId
+  "p":"56395.40",	// Price
+  "q":"0.030",	// Quantity
+  "f":5373067930,	// First tradeId
+  "l":5373067930,	// Last tradeId
+  "T":1726044521651,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993781,	// Aggregate tradeId
+  "p":"56395.30",	// Price
+  "q":"1.120",	// Quantity
+  "f":5373067931,	// First tradeId
+  "l":5373067967,	// Last tradeId
+  "T":1726044521757,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993782,	// Aggregate tradeId
+  "p":"56395.00",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067968,	// First tradeId
+  "l":5373067968,	// Last tradeId
+  "T":1726044521761,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993783,	// Aggregate tradeId
+  "p":"56394.80",	// Price
+  "q":"0.300",	// Quantity
+  "f":5373067969,	// First tradeId
+  "l":5373067969,	// Last tradeId
+  "T":1726044521847,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993784,	// Aggregate tradeId
+  "p":"56394.70",	// Price
+  "q":"0.398",	// Quantity
+  "f":5373067970,	// First tradeId
+  "l":5373067989,	// Last tradeId
+  "T":1726044522055,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993785,	// Aggregate tradeId
+  "p":"56394.60",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067990,	// First tradeId
+  "l":5373067990,	// Last tradeId
+  "T":1726044522055,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993786,	// Aggregate tradeId
+  "p":"56394.00",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067991,	// First tradeId
+  "l":5373067991,	// Last tradeId
+  "T":1726044522057,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993787,	// Aggregate tradeId
+  "p":"56393.60",	// Price
+  "q":"0.005",	// Quantity
+  "f":5373067992,	// First tradeId
+  "l":5373067992,	// Last tradeId
+  "T":1726044522057,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993788,	// Aggregate tradeId
+  "p":"56393.00",	// Price
+  "q":"0.045",	// Quantity
+  "f":5373067993,	// First tradeId
+  "l":5373067994,	// Last tradeId
+  "T":1726044522058,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993789,	// Aggregate tradeId
+  "p":"56392.80",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067995,	// First tradeId
+  "l":5373067995,	// Last tradeId
+  "T":1726044522058,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993790,	// Aggregate tradeId
+  "p":"56392.40",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067996,	// First tradeId
+  "l":5373067996,	// Last tradeId
+  "T":1726044522058,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993791,	// Aggregate tradeId
+  "p":"56392.00",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373067997,	// First tradeId
+  "l":5373067997,	// Last tradeId
+  "T":1726044522066,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993792,	// Aggregate tradeId
+  "p":"56391.20",	// Price
+  "q":"0.010",	// Quantity
+  "f":5373067998,	// First tradeId
+  "l":5373067998,	// Last tradeId
+  "T":1726044522066,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993793,	// Aggregate tradeId
+  "p":"56391.10",	// Price
+  "q":"0.165",	// Quantity
+  "f":5373067999,	// First tradeId
+  "l":5373068009,	// Last tradeId
+  "T":1726044522089,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993794,	// Aggregate tradeId
+  "p":"56391.00",	// Price
+  "q":"0.438",	// Quantity
+  "f":5373068010,	// First tradeId
+  "l":5373068016,	// Last tradeId
+  "T":1726044522175,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993795,	// Aggregate tradeId
+  "p":"56390.90",	// Price
+  "q":"0.153",	// Quantity
+  "f":5373068017,	// First tradeId
+  "l":5373068020,	// Last tradeId
+  "T":1726044522269,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993796,	// Aggregate tradeId
+  "p":"56390.70",	// Price
+  "q":"0.239",	// Quantity
+  "f":5373068021,	// First tradeId
+  "l":5373068022,	// Last tradeId
+  "T":1726044522270,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993797,	// Aggregate tradeId
+  "p":"56390.00",	// Price
+  "q":"1.077",	// Quantity
+  "f":5373068023,	// First tradeId
+  "l":5373068030,	// Last tradeId
+  "T":1726044522270,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993798,	// Aggregate tradeId
+  "p":"56389.00",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373068031,	// First tradeId
+  "l":5373068031,	// Last tradeId
+  "T":1726044522275,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993799,	// Aggregate tradeId
+  "p":"56388.90",	// Price
+  "q":"0.033",	// Quantity
+  "f":5373068032,	// First tradeId
+  "l":5373068032,	// Last tradeId
+  "T":1726044522275,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993800,	// Aggregate tradeId
+  "p":"56388.70",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373068033,	// First tradeId
+  "l":5373068033,	// Last tradeId
+  "T":1726044522275,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993801,	// Aggregate tradeId
+  "p":"56388.50",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373068034,	// First tradeId
+  "l":5373068034,	// Last tradeId
+  "T":1726044522276,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993802,	// Aggregate tradeId
+  "p":"56388.00",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373068035,	// First tradeId
+  "l":5373068035,	// Last tradeId
+  "T":1726044522277,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993803,	// Aggregate tradeId
+  "p":"56387.40",	// Price
+  "q":"0.015",	// Quantity
+  "f":5373068036,	// First tradeId
+  "l":5373068037,	// Last tradeId
+  "T":1726044522286,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993804,	// Aggregate tradeId
+  "p":"56387.00",	// Price
+  "q":"0.004",	// Quantity
+  "f":5373068038,	// First tradeId
+  "l":5373068040,	// Last tradeId
+  "T":1726044522286,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993805,	// Aggregate tradeId
+  "p":"56386.60",	// Price
+  "q":"0.009",	// Quantity
+  "f":5373068041,	// First tradeId
+  "l":5373068043,	// Last tradeId
+  "T":1726044522290,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993806,	// Aggregate tradeId
+  "p":"56386.00",	// Price
+  "q":"0.012",	// Quantity
+  "f":5373068044,	// First tradeId
+  "l":5373068047,	// Last tradeId
+  "T":1726044522290,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993807,	// Aggregate tradeId
+  "p":"56385.50",	// Price
+  "q":"0.004",	// Quantity
+  "f":5373068048,	// First tradeId
+  "l":5373068049,	// Last tradeId
+  "T":1726044522296,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993808,	// Aggregate tradeId
+  "p":"56385.00",	// Price
+  "q":"0.021",	// Quantity
+  "f":5373068050,	// First tradeId
+  "l":5373068054,	// Last tradeId
+  "T":1726044522307,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993809,	// Aggregate tradeId
+  "p":"56384.80",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373068055,	// First tradeId
+  "l":5373068055,	// Last tradeId
+  "T":1726044522586,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993810,	// Aggregate tradeId
+  "p":"56384.70",	// Price
+  "q":"0.026",	// Quantity
+  "f":5373068056,	// First tradeId
+  "l":5373068062,	// Last tradeId
+  "T":1726044522589,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993811,	// Aggregate tradeId
+  "p":"56384.30",	// Price
+  "q":"0.003",	// Quantity
+  "f":5373068063,	// First tradeId
+  "l":5373068063,	// Last tradeId
+  "T":1726044522589,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993812,	// Aggregate tradeId
+  "p":"56384.00",	// Price
+  "q":"0.006",	// Quantity
+  "f":5373068064,	// First tradeId
+  "l":5373068067,	// Last tradeId
+  "T":1726044522591,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993813,	// Aggregate tradeId
+  "p":"56383.90",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373068068,	// First tradeId
+  "l":5373068068,	// Last tradeId
+  "T":1726044522591,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993814,	// Aggregate tradeId
+  "p":"56383.00",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373068069,	// First tradeId
+  "l":5373068069,	// Last tradeId
+  "T":1726044522594,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993815,	// Aggregate tradeId
+  "p":"56382.60",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373068070,	// First tradeId
+  "l":5373068070,	// Last tradeId
+  "T":1726044522594,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993816,	// Aggregate tradeId
+  "p":"56382.00",	// Price
+  "q":"0.007",	// Quantity
+  "f":5373068071,	// First tradeId
+  "l":5373068073,	// Last tradeId
+  "T":1726044522713,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993817,	// Aggregate tradeId
+  "p":"56381.00",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373068074,	// First tradeId
+  "l":5373068074,	// Last tradeId
+  "T":1726044522713,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993818,	// Aggregate tradeId
+  "p":"56380.90",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373068075,	// First tradeId
+  "l":5373068076,	// Last tradeId
+  "T":1726044522713,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993819,	// Aggregate tradeId
+  "p":"56380.40",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373068077,	// First tradeId
+  "l":5373068077,	// Last tradeId
+  "T":1726044522713,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993820,	// Aggregate tradeId
+  "p":"56380.20",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373068078,	// First tradeId
+  "l":5373068078,	// Last tradeId
+  "T":1726044522713,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993821,	// Aggregate tradeId
+  "p":"56380.10",	// Price
+  "q":"1.781",	// Quantity
+  "f":5373068079,	// First tradeId
+  "l":5373068081,	// Last tradeId
+  "T":1726044522775,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993822,	// Aggregate tradeId
+  "p":"56380.10",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373068082,	// First tradeId
+  "l":5373068082,	// Last tradeId
+  "T":1726044522883,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993823,	// Aggregate tradeId
+  "p":"56380.00",	// Price
+  "q":"0.059",	// Quantity
+  "f":5373068083,	// First tradeId
+  "l":5373068089,	// Last tradeId
+  "T":1726044523086,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993824,	// Aggregate tradeId
+  "p":"56379.90",	// Price
+  "q":"0.015",	// Quantity
+  "f":5373068090,	// First tradeId
+  "l":5373068091,	// Last tradeId
+  "T":1726044523086,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993825,	// Aggregate tradeId
+  "p":"56379.80",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373068092,	// First tradeId
+  "l":5373068092,	// Last tradeId
+  "T":1726044523087,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993826,	// Aggregate tradeId
+  "p":"56379.60",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373068093,	// First tradeId
+  "l":5373068093,	// Last tradeId
+  "T":1726044523094,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993827,	// Aggregate tradeId
+  "p":"56379.50",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373068094,	// First tradeId
+  "l":5373068094,	// Last tradeId
+  "T":1726044523094,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993828,	// Aggregate tradeId
+  "p":"56379.40",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373068095,	// First tradeId
+  "l":5373068095,	// Last tradeId
+  "T":1726044523094,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993829,	// Aggregate tradeId
+  "p":"56379.00",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373068096,	// First tradeId
+  "l":5373068096,	// Last tradeId
+  "T":1726044523097,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993830,	// Aggregate tradeId
+  "p":"56378.30",	// Price
+  "q":"0.018",	// Quantity
+  "f":5373068097,	// First tradeId
+  "l":5373068098,	// Last tradeId
+  "T":1726044523126,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993831,	// Aggregate tradeId
+  "p":"56378.40",	// Price
+  "q":"0.093",	// Quantity
+  "f":5373068099,	// First tradeId
+  "l":5373068101,	// Last tradeId
+  "T":1726044523167,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993832,	// Aggregate tradeId
+  "p":"56378.40",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373068102,	// First tradeId
+  "l":5373068102,	// Last tradeId
+  "T":1726044523344,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993833,	// Aggregate tradeId
+  "p":"56378.40",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373068103,	// First tradeId
+  "l":5373068103,	// Last tradeId
+  "T":1726044523543,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993834,	// Aggregate tradeId
+  "p":"56378.30",	// Price
+  "q":"0.145",	// Quantity
+  "f":5373068104,	// First tradeId
+  "l":5373068118,	// Last tradeId
+  "T":1726044523581,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993835,	// Aggregate tradeId
+  "p":"56378.40",	// Price
+  "q":"0.044",	// Quantity
+  "f":5373068119,	// First tradeId
+  "l":5373068119,	// Last tradeId
+  "T":1726044523842,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993836,	// Aggregate tradeId
+  "p":"56378.30",	// Price
+  "q":"0.110",	// Quantity
+  "f":5373068120,	// First tradeId
+  "l":5373068132,	// Last tradeId
+  "T":1726044524137,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993837,	// Aggregate tradeId
+  "p":"56378.00",	// Price
+  "q":"0.006",	// Quantity
+  "f":5373068133,	// First tradeId
+  "l":5373068135,	// Last tradeId
+  "T":1726044524138,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993838,	// Aggregate tradeId
+  "p":"56377.20",	// Price
+  "q":"0.017",	// Quantity
+  "f":5373068136,	// First tradeId
+  "l":5373068137,	// Last tradeId
+  "T":1726044524140,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993839,	// Aggregate tradeId
+  "p":"56377.10",	// Price
+  "q":"0.062",	// Quantity
+  "f":5373068138,	// First tradeId
+  "l":5373068139,	// Last tradeId
+  "T":1726044524302,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993840,	// Aggregate tradeId
+  "p":"56377.00",	// Price
+  "q":"0.130",	// Quantity
+  "f":5373068140,	// First tradeId
+  "l":5373068149,	// Last tradeId
+  "T":1726044524413,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993841,	// Aggregate tradeId
+  "p":"56376.90",	// Price
+  "q":"0.007",	// Quantity
+  "f":5373068150,	// First tradeId
+  "l":5373068150,	// Last tradeId
+  "T":1726044524438,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993842,	// Aggregate tradeId
+  "p":"56376.90",	// Price
+  "q":"0.127",	// Quantity
+  "f":5373068151,	// First tradeId
+  "l":5373068151,	// Last tradeId
+  "T":1726044524596,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993843,	// Aggregate tradeId
+  "p":"56376.90",	// Price
+  "q":"0.056",	// Quantity
+  "f":5373068152,	// First tradeId
+  "l":5373068152,	// Last tradeId
+  "T":1726044524888,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993844,	// Aggregate tradeId
+  "p":"56376.90",	// Price
+  "q":"0.010",	// Quantity
+  "f":5373068153,	// First tradeId
+  "l":5373068153,	// Last tradeId
+  "T":1726044524991,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993845,	// Aggregate tradeId
+  "p":"56376.90",	// Price
+  "q":"1.764",	// Quantity
+  "f":5373068154,	// First tradeId
+  "l":5373068157,	// Last tradeId
+  "T":1726044525523,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993846,	// Aggregate tradeId
+  "p":"56376.90",	// Price
+  "q":"0.054",	// Quantity
+  "f":5373068158,	// First tradeId
+  "l":5373068158,	// Last tradeId
+  "T":1726044525722,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993847,	// Aggregate tradeId
+  "p":"56376.90",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373068159,	// First tradeId
+  "l":5373068159,	// Last tradeId
+  "T":1726044525891,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993848,	// Aggregate tradeId
+  "p":"56376.80",	// Price
+  "q":"0.293",	// Quantity
+  "f":5373068160,	// First tradeId
+  "l":5373068179,	// Last tradeId
+  "T":1726044526077,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993849,	// Aggregate tradeId
+  "p":"56376.70",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373068180,	// First tradeId
+  "l":5373068180,	// Last tradeId
+  "T":1726044526078,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993850,	// Aggregate tradeId
+  "p":"56376.50",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373068181,	// First tradeId
+  "l":5373068181,	// Last tradeId
+  "T":1726044526081,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993851,	// Aggregate tradeId
+  "p":"56376.00",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373068182,	// First tradeId
+  "l":5373068182,	// Last tradeId
+  "T":1726044526081,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993852,	// Aggregate tradeId
+  "p":"56375.80",	// Price
+  "q":"0.005",	// Quantity
+  "f":5373068183,	// First tradeId
+  "l":5373068184,	// Last tradeId
+  "T":1726044526081,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993853,	// Aggregate tradeId
+  "p":"56375.30",	// Price
+  "q":"0.003",	// Quantity
+  "f":5373068185,	// First tradeId
+  "l":5373068185,	// Last tradeId
+  "T":1726044526081,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993854,	// Aggregate tradeId
+  "p":"56375.00",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373068186,	// First tradeId
+  "l":5373068186,	// Last tradeId
+  "T":1726044526081,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993855,	// Aggregate tradeId
+  "p":"56374.80",	// Price
+  "q":"0.026",	// Quantity
+  "f":5373068187,	// First tradeId
+  "l":5373068188,	// Last tradeId
+  "T":1726044526181,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993856,	// Aggregate tradeId
+  "p":"56374.00",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373068189,	// First tradeId
+  "l":5373068189,	// Last tradeId
+  "T":1726044526184,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993857,	// Aggregate tradeId
+  "p":"56373.60",	// Price
+  "q":"0.004",	// Quantity
+  "f":5373068190,	// First tradeId
+  "l":5373068190,	// Last tradeId
+  "T":1726044526184,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993858,	// Aggregate tradeId
+  "p":"56373.50",	// Price
+  "q":"0.003",	// Quantity
+  "f":5373068191,	// First tradeId
+  "l":5373068191,	// Last tradeId
+  "T":1726044526184,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993859,	// Aggregate tradeId
+  "p":"56373.10",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373068192,	// First tradeId
+  "l":5373068192,	// Last tradeId
+  "T":1726044526184,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993860,	// Aggregate tradeId
+  "p":"56373.00",	// Price
+  "q":"0.004",	// Quantity
+  "f":5373068193,	// First tradeId
+  "l":5373068194,	// Last tradeId
+  "T":1726044526190,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993861,	// Aggregate tradeId
+  "p":"56372.80",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373068195,	// First tradeId
+  "l":5373068195,	// Last tradeId
+  "T":1726044526428,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993862,	// Aggregate tradeId
+  "p":"56372.90",	// Price
+  "q":"0.043",	// Quantity
+  "f":5373068196,	// First tradeId
+  "l":5373068197,	// Last tradeId
+  "T":1726044526486,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993863,	// Aggregate tradeId
+  "p":"56372.80",	// Price
+  "q":"0.014",	// Quantity
+  "f":5373068198,	// First tradeId
+  "l":5373068198,	// Last tradeId
+  "T":1726044526839,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993864,	// Aggregate tradeId
+  "p":"56372.80",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373068199,	// First tradeId
+  "l":5373068199,	// Last tradeId
+  "T":1726044527101,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993865,	// Aggregate tradeId
+  "p":"56372.90",	// Price
+  "q":"0.008",	// Quantity
+  "f":5373068200,	// First tradeId
+  "l":5373068200,	// Last tradeId
+  "T":1726044527102,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993866,	// Aggregate tradeId
+  "p":"56372.80",	// Price
+  "q":"0.009",	// Quantity
+  "f":5373068201,	// First tradeId
+  "l":5373068201,	// Last tradeId
+  "T":1726044527199,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993867,	// Aggregate tradeId
+  "p":"56372.90",	// Price
+  "q":"0.050",	// Quantity
+  "f":5373068202,	// First tradeId
+  "l":5373068202,	// Last tradeId
+  "T":1726044527300,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993868,	// Aggregate tradeId
+  "p":"56372.80",	// Price
+  "q":"0.014",	// Quantity
+  "f":5373068203,	// First tradeId
+  "l":5373068205,	// Last tradeId
+  "T":1726044527393,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993869,	// Aggregate tradeId
+  "p":"56372.90",	// Price
+  "q":"0.676",	// Quantity
+  "f":5373068206,	// First tradeId
+  "l":5373068457,	// Last tradeId
+  "T":1726044527579,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993870,	// Aggregate tradeId
+  "p":"56372.90",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373068458,	// First tradeId
+  "l":5373068458,	// Last tradeId
+  "T":1726044527858,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993871,	// Aggregate tradeId
+  "p":"56372.90",	// Price
+  "q":"0.078",	// Quantity
+  "f":5373068459,	// First tradeId
+  "l":5373068461,	// Last tradeId
+  "T":1726044528728,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993872,	// Aggregate tradeId
+  "p":"56372.80",	// Price
+  "q":"0.014",	// Quantity
+  "f":5373068462,	// First tradeId
+  "l":5373068464,	// Last tradeId
+  "T":1726044528866,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993873,	// Aggregate tradeId
+  "p":"56372.80",	// Price
+  "q":"0.014",	// Quantity
+  "f":5373068465,	// First tradeId
+  "l":5373068467,	// Last tradeId
+  "T":1726044529077,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993874,	// Aggregate tradeId
+  "p":"56372.90",	// Price
+  "q":"0.500",	// Quantity
+  "f":5373068468,	// First tradeId
+  "l":5373068468,	// Last tradeId
+  "T":1726044529116,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993875,	// Aggregate tradeId
+  "p":"56372.80",	// Price
+  "q":"0.157",	// Quantity
+  "f":5373068469,	// First tradeId
+  "l":5373068469,	// Last tradeId
+  "T":1726044529134,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993876,	// Aggregate tradeId
+  "p":"56372.90",	// Price
+  "q":"0.210",	// Quantity
+  "f":5373068470,	// First tradeId
+  "l":5373068489,	// Last tradeId
+  "T":1726044529335,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993877,	// Aggregate tradeId
+  "p":"56373.00",	// Price
+  "q":"0.052",	// Quantity
+  "f":5373068490,	// First tradeId
+  "l":5373068491,	// Last tradeId
+  "T":1726044529335,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993878,	// Aggregate tradeId
+  "p":"56373.40",	// Price
+  "q":"0.009",	// Quantity
+  "f":5373068492,	// First tradeId
+  "l":5373068492,	// Last tradeId
+  "T":1726044529381,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993879,	// Aggregate tradeId
+  "p":"56373.30",	// Price
+  "q":"0.007",	// Quantity
+  "f":5373068493,	// First tradeId
+  "l":5373068493,	// Last tradeId
+  "T":1726044529409,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993880,	// Aggregate tradeId
+  "p":"56373.40",	// Price
+  "q":"0.005",	// Quantity
+  "f":5373068494,	// First tradeId
+  "l":5373068494,	// Last tradeId
+  "T":1726044529424,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993881,	// Aggregate tradeId
+  "p":"56373.50",	// Price
+  "q":"0.006",	// Quantity
+  "f":5373068495,	// First tradeId
+  "l":5373068496,	// Last tradeId
+  "T":1726044529424,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993882,	// Aggregate tradeId
+  "p":"56373.60",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373068497,	// First tradeId
+  "l":5373068497,	// Last tradeId
+  "T":1726044529424,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993883,	// Aggregate tradeId
+  "p":"56374.00",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373068498,	// First tradeId
+  "l":5373068498,	// Last tradeId
+  "T":1726044529424,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993884,	// Aggregate tradeId
+  "p":"56374.20",	// Price
+  "q":"0.150",	// Quantity
+  "f":5373068499,	// First tradeId
+  "l":5373068499,	// Last tradeId
+  "T":1726044529676,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993885,	// Aggregate tradeId
+  "p":"56374.20",	// Price
+  "q":"0.004",	// Quantity
+  "f":5373068500,	// First tradeId
+  "l":5373068500,	// Last tradeId
+  "T":1726044529885,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993886,	// Aggregate tradeId
+  "p":"56374.10",	// Price
+  "q":"5.321",	// Quantity
+  "f":5373068501,	// First tradeId
+  "l":5373068510,	// Last tradeId
+  "T":1726044529948,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993887,	// Aggregate tradeId
+  "p":"56374.20",	// Price
+  "q":"0.017",	// Quantity
+  "f":5373068511,	// First tradeId
+  "l":5373068511,	// Last tradeId
+  "T":1726044530330,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993888,	// Aggregate tradeId
+  "p":"56374.10",	// Price
+  "q":"0.863",	// Quantity
+  "f":5373068512,	// First tradeId
+  "l":5373068512,	// Last tradeId
+  "T":1726044530543,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993889,	// Aggregate tradeId
+  "p":"56374.20",	// Price
+  "q":"0.017",	// Quantity
+  "f":5373068513,	// First tradeId
+  "l":5373068513,	// Last tradeId
+  "T":1726044530589,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993890,	// Aggregate tradeId
+  "p":"56374.10",	// Price
+  "q":"0.001",	// Quantity
+  "f":5373068514,	// First tradeId
+  "l":5373068514,	// Last tradeId
+  "T":1726044530802,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993891,	// Aggregate tradeId
+  "p":"56374.10",	// Price
+  "q":"0.043",	// Quantity
+  "f":5373068515,	// First tradeId
+  "l":5373068516,	// Last tradeId
+  "T":1726044531272,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993892,	// Aggregate tradeId
+  "p":"56374.10",	// Price
+  "q":"0.014",	// Quantity
+  "f":5373068517,	// First tradeId
+  "l":5373068517,	// Last tradeId
+  "T":1726044531923,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993893,	// Aggregate tradeId
+  "p":"56374.20",	// Price
+  "q":"0.019",	// Quantity
+  "f":5373068518,	// First tradeId
+  "l":5373068519,	// Last tradeId
+  "T":1726044532134,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993894,	// Aggregate tradeId
+  "p":"56374.20",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373068520,	// First tradeId
+  "l":5373068520,	// Last tradeId
+  "T":1726044532332,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993895,	// Aggregate tradeId
+  "p":"56374.20",	// Price
+  "q":"0.003",	// Quantity
+  "f":5373068521,	// First tradeId
+  "l":5373068521,	// Last tradeId
+  "T":1726044532588,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993896,	// Aggregate tradeId
+  "p":"56374.20",	// Price
+  "q":"0.100",	// Quantity
+  "f":5373068522,	// First tradeId
+  "l":5373068522,	// Last tradeId
+  "T":1726044532835,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993897,	// Aggregate tradeId
+  "p":"56374.10",	// Price
+  "q":"0.002",	// Quantity
+  "f":5373068523,	// First tradeId
+  "l":5373068523,	// Last tradeId
+  "T":1726044533282,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993898,	// Aggregate tradeId
+  "p":"56374.20",	// Price
+  "q":"0.083",	// Quantity
+  "f":5373068524,	// First tradeId
+  "l":5373068526,	// Last tradeId
+  "T":1726044533354,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993899,	// Aggregate tradeId
+  "p":"56374.20",	// Price
+  "q":"0.004",	// Quantity
+  "f":5373068527,	// First tradeId
+  "l":5373068527,	// Last tradeId
+  "T":1726044533742,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993900,	// Aggregate tradeId
+  "p":"56374.10",	// Price
+  "q":"0.005",	// Quantity
+  "f":5373068528,	// First tradeId
+  "l":5373068528,	// Last tradeId
+  "T":1726044534001,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993901,	// Aggregate tradeId
+  "p":"56374.10",	// Price
+  "q":"0.005",	// Quantity
+  "f":5373068529,	// First tradeId
+  "l":5373068529,	// Last tradeId
+  "T":1726044534108,	// Timestamp
+  "m":true,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993902,	// Aggregate tradeId
+  "p":"56374.20",	// Price
+  "q":"0.023",	// Quantity
+  "f":5373068530,	// First tradeId
+  "l":5373068531,	// Last tradeId
+  "T":1726044534264,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993903,	// Aggregate tradeId
+  "p":"56374.20",	// Price
+  "q":"0.013",	// Quantity
+  "f":5373068532,	// First tradeId
+  "l":5373068532,	// Last tradeId
+  "T":1726044534619,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+[
+ {
+  "a":2324993904,	// Aggregate tradeId
+  "p":"56374.20",	// Price
+  "q":"0.017",	// Quantity
+  "f":5373068533,	// First tradeId
+  "l":5373068533,	// Last tradeId
+  "T":1726044535250,	// Timestamp
+  "m":false,	// Was the buyer the maker?
+ }
+].
+time taken to read from binance = 2449.06 milliseconds
+time taken to parse 500 trades = 1.14001 millisseconds
+total time taken = 2450.2 millisseconds

@@ -1,0 +1,97 @@
+-------------------web data scraping is complete-------------------
+Please enter the action to be performed
+1. Get value of key
+2. Remove key from database
+3. Get word that was most recently changed
+4. Get word that was least recently changed
+5. Exit program
+Your input: 1
+
+
+--------------------------------------
+please enter the word for fetching the key: judith
+the key for the word is -- 129
+--------------------------------------
+
+Please enter the action to be performed
+1. Get value of key
+2. Remove key from database
+3. Get word that was most recently changed
+4. Get word that was least recently changed
+5. Exit program
+Your input: 2
+
+
+--------------------------------------
+please enter the word to remove from the database: judith
+word to be removed is judith
+
+--------------------------------------
+
+Please enter the action to be performed
+1. Get value of key
+2. Remove key from database
+3. Get word that was most recently changed
+4. Get word that was least recently changed
+5. Exit program
+Your input: 1
+
+
+--------------------------------------
+please enter the word for fetching the key: judith
+the word does not exist in the database
+--------------------------------------
+
+Please enter the action to be performed
+1. Get value of key
+2. Remove key from database
+3. Get word that was most recently changed
+4. Get word that was least recently changed
+5. Exit program
+Your input: 1
+
+
+--------------------------------------
+please enter the word for fetching the key: xyz
+the word does not exist in the database
+--------------------------------------
+
+Please enter the action to be performed
+1. Get value of key
+2. Remove key from database
+3. Get word that was most recently changed
+4. Get word that was least recently changed
+5. Exit program
+Your input: 3
+
+
+--------------------------------------
+the key that was most recently changed is -- ebooks
+--------------------------------------
+
+Please enter the action to be performed
+1. Get value of key
+2. Remove key from database
+3. Get word that was most recently changed
+4. Get word that was least recently changed
+5. Exit program
+Your input: 4
+
+
+--------------------------------------
+the key that was least recently changed is -- author
+--------------------------------------
+
+Please enter the action to be performed
+1. Get value of key
+2. Remove key from database
+3. Get word that was most recently changed
+4. Get word that was least recently changed
+5. Exit program
+Your input: 5
+
+
+--------------------------------------
+exiting program
+--------------------------------------
+
