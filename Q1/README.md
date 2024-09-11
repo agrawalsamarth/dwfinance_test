@@ -4,6 +4,10 @@ DEPENDENCIES:
 	Please edit the Makefile to include the address the of the curl library
 	PLEASE BE EXTEREMLY CAREFUL WHEN USING make clean
 
+CHANGES TO MAKEFILE:
+
+	Please change Line 4 and Line 5 of the Makefile in case you need to add the path to the include folder of the curl library, and line 6 for the path to the curl library 
+
 INSTALLATION:
 
 	make all
