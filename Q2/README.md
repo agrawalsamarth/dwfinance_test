@@ -4,6 +4,9 @@ DEPENDENCIES:
 	Please add the correct path to these libraries in the Makefile
 	PLEASE BE EXTREMELY CAREFUL WHEN USING make clean
 
+MAKEFILE UPDATES:
+
+	In case you need to add the path to OpenSSL include folder Line 4 and 5 must be changed. And Lines 6,7,8 must be changed in order to add the libraries openssl, openssl cryptography and posix threads
 
 INSTALLATION:
 
